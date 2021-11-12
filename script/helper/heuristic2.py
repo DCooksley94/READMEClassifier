@@ -6,6 +6,7 @@ heur_<x>_<y>_<number>
 <y> = k if uses keyword matching, s if uses text statistics (e.g. word count), c if combination
 '''
 import nltk
+nltk.download('words')
 import re
 import pandas
 from pandas import DataFrame
