@@ -1,0 +1,1061 @@
+section-id,file-id,url,heading,code-khoi,code-david,code-evan,code-all
+4923,436,https://github.com/zhougr1993/DeepInterestNetwork,# DeepInterestNetwork,1,1,1,1
+4924,436,https://github.com/zhougr1993/DeepInterestNetwork,## Important Statement,12,12,12,12
+4925,436,https://github.com/zhougr1993/DeepInterestNetwork,## Introduction,156,156,156,156
+4926,436,https://github.com/zhougr1993/DeepInterestNetwork,## Requirements,3,3,3,3
+4927,436,https://github.com/zhougr1993/DeepInterestNetwork,## Download dataset and preprocess,3,3,3,3
+4928,436,https://github.com/zhougr1993/DeepInterestNetwork,## Training and Evaluation,3,3,3,3
+4929,436,https://github.com/zhougr1993/DeepInterestNetwork,## Dice,1,3,1,DISAGREE
+4930,437,https://github.com/wellcaffeinated/PhysicsJS,# This project is no longer maintained,16,16,16,16
+4931,437,https://github.com/wellcaffeinated/PhysicsJS,# PhysicsJS,1,1,1,1
+4932,437,https://github.com/wellcaffeinated/PhysicsJS,## Usage,3,3,3,3
+4933,437,https://github.com/wellcaffeinated/PhysicsJS,## Contributing,7,7,7,7
+4934,437,https://github.com/wellcaffeinated/PhysicsJS,### Pull Requests,7,7,7,7
+4935,437,https://github.com/wellcaffeinated/PhysicsJS,## License MIT,5,5,5,5
+4936,438,https://github.com/YousefED/typescript-json-schema,# typescript-json-schema,1,1,1,1
+4937,438,https://github.com/YousefED/typescript-json-schema,## Features,13,13,1,DISAGREE
+4938,438,https://github.com/YousefED/typescript-json-schema,## Usage,3,3,3,3
+4939,438,https://github.com/YousefED/typescript-json-schema,### Command line,3,3,3,3
+4940,438,https://github.com/YousefED/typescript-json-schema,### Programmatic use,3,3,3,3
+4941,438,https://github.com/YousefED/typescript-json-schema,### Annotations,3,3,36,DISAGREE
+4942,438,https://github.com/YousefED/typescript-json-schema,### `integer` type alias,3,3,3,3
+4943,438,https://github.com/YousefED/typescript-json-schema,### `require` a variable from a file,3,3,3,3
+4944,438,https://github.com/YousefED/typescript-json-schema,## Background,16,16,16,16
+4945,438,https://github.com/YousefED/typescript-json-schema,## Debugging,3,3,3,3
+4946,439,https://github.com/harjot-oberai/MaterialShadows,# MaterialShadows,12,12,1,DISAGREE
+4947,439,https://github.com/harjot-oberai/MaterialShadows,# Usage,3,3,3,3
+4948,439,https://github.com/harjot-oberai/MaterialShadows,# Third Party Bindings,6,6,6,6
+4949,439,https://github.com/harjot-oberai/MaterialShadows,# How does this work ?,135,3,135,DISAGREE
+4950,439,https://github.com/harjot-oberai/MaterialShadows,# Example Usage 1 (Simple),3,3,3,3
+4951,439,https://github.com/harjot-oberai/MaterialShadows,#### XML,3,3,3,3
+4952,439,https://github.com/harjot-oberai/MaterialShadows,#### Result,3,3,3,3
+4953,439,https://github.com/harjot-oberai/MaterialShadows,# Example Usage 2 (Offset),3,3,3,3
+4954,439,https://github.com/harjot-oberai/MaterialShadows,#### XML,3,3,3,3
+4955,439,https://github.com/harjot-oberai/MaterialShadows,#### Result,3,3,3,3
+4956,439,https://github.com/harjot-oberai/MaterialShadows,# Example Usage 3 (Shadow intensity),3,3,3,3
+4957,439,https://github.com/harjot-oberai/MaterialShadows,#### XML,3,3,3,3
+4958,439,https://github.com/harjot-oberai/MaterialShadows,#### Result,3,3,3,3
+4959,439,https://github.com/harjot-oberai/MaterialShadows,# Example Usage 4 (Semi-transparent views),3,3,3,3
+4960,439,https://github.com/harjot-oberai/MaterialShadows,#### XML,3,3,3,3
+4961,439,https://github.com/harjot-oberai/MaterialShadows,#### Result,3,3,3,3
+4962,439,https://github.com/harjot-oberai/MaterialShadows,# Using MaterialShadows with custom ViewGroups,3,3,3,3
+4963,439,https://github.com/harjot-oberai/MaterialShadows,# Documentation,3,3,3,3
+4964,439,https://github.com/harjot-oberai/MaterialShadows,# Limitations,3,3,3,3
+4965,439,https://github.com/harjot-oberai/MaterialShadows,# Credits,5,5,5,5
+4966,439,https://github.com/harjot-oberai/MaterialShadows,# License,5,5,5,5
+4967,440,https://github.com/circe/circe,# circe,123,123,123,123
+4968,440,https://github.com/circe/circe,## Community,56,6,5,DISAGREE
+4969,440,https://github.com/circe/circe,### Adopters,67,6,57,DISAGREE
+4970,440,https://github.com/circe/circe,### Other circe organization projects,67,67,67,67
+4971,440,https://github.com/circe/circe,### Related projects,6,6,6,6
+4972,440,https://github.com/circe/circe,### Examples,6,6,6,6
+4973,440,https://github.com/circe/circe,## Contributors and participation,7,7,57,DISAGREE
+4974,440,https://github.com/circe/circe,## License,5,5,5,5
+4975,441,https://github.com/Rich-Harris/degit,# degit â€”Â straightforward project scaffolding,13,13,13,13
+4976,441,https://github.com/Rich-Harris/degit,## Installation,3,3,3,3
+4977,441,https://github.com/Rich-Harris/degit,## Usage,3,3,3,3
+4978,441,https://github.com/Rich-Harris/degit,### Basics,3,3,3,3
+4979,441,https://github.com/Rich-Harris/degit,# these commands are equivalent,8,8,8,8
+4980,441,https://github.com/Rich-Harris/degit,# download from GitLab,8,8,8,8
+4981,441,https://github.com/Rich-Harris/degit,# download from BitBucket,8,8,8,8
+4982,441,https://github.com/Rich-Harris/degit,# download from Sourcehut,8,8,8,8
+4983,441,https://github.com/Rich-Harris/degit,"### Specify a tag, branch or commit",3,3,3,3
+4984,441,https://github.com/Rich-Harris/degit,### Create a new folder for the project,3,3,3,3
+4985,441,https://github.com/Rich-Harris/degit,### Specify a subdirectory,3,3,3,3
+4986,441,https://github.com/Rich-Harris/degit,### HTTPS proxying,3,3,3,3
+4987,441,https://github.com/Rich-Harris/degit,### Private repositories,3,3,3,3
+4988,441,https://github.com/Rich-Harris/degit,### See all options,3,3,3,3
+4989,441,https://github.com/Rich-Harris/degit,## Not supported,37,37,3,DISAGREE
+4990,441,https://github.com/Rich-Harris/degit,"## Wait, isn't this just `git clone --depth 1`?",24,24,24,24
+4991,441,https://github.com/Rich-Harris/degit,## JavaScript API,3,3,3,3
+4992,441,https://github.com/Rich-Harris/degit,## Actions,3,3,3,3
+4993,441,https://github.com/Rich-Harris/degit,### clone,3,3,3,3
+4994,441,https://github.com/Rich-Harris/degit,### remove,3,3,3,3
+4995,441,https://github.com/Rich-Harris/degit,## See also,6,6,6,6
+4996,441,https://github.com/Rich-Harris/degit,## License,5,5,5,5
+4997,442,https://github.com/lucasb-eyer/pydensecrf,### Problems on Windows/VS,3,-,3,DISAGREE
+4998,442,https://github.com/lucasb-eyer/pydensecrf,# Or alternatively: d.setUnary(ConstUnary(U)),8,-,8,DISAGREE
+4999,442,https://github.com/lucasb-eyer/pydensecrf,### Getting a Unary,3,-,3,DISAGREE
+5000,442,https://github.com/lucasb-eyer/pydensecrf,"# This adds the color-independent term, features are the locations only.",8,-,8,DISAGREE
+5001,442,https://github.com/lucasb-eyer/pydensecrf,"# This adds the color-dependent term, i.e. features are (x,y,r,g,b).",8,-,8,DISAGREE
+5002,442,https://github.com/lucasb-eyer/pydensecrf,"# im is an image-array, e.g. im.dtype == np.uint8 and im.shape == (640,480,3)",8,-,8,DISAGREE
+5003,442,https://github.com/lucasb-eyer/pydensecrf,### Non-RGB bilateral,3,-,36,DISAGREE
+5004,442,https://github.com/lucasb-eyer/pydensecrf,### Compatibilities,3,-,3,DISAGREE
+5005,442,https://github.com/lucasb-eyer/pydensecrf,### Kernels,3,-,3,DISAGREE
+5006,442,https://github.com/lucasb-eyer/pydensecrf,### Normalizations,3,-,3,DISAGREE
+5007,442,https://github.com/lucasb-eyer/pydensecrf,### Kernel weight,36,-,36,DISAGREE
+5008,442,https://github.com/lucasb-eyer/pydensecrf,### Pairwise potentials for N-D,3,-,3,DISAGREE
+5009,442,https://github.com/lucasb-eyer/pydensecrf,# Go increment the version in setup.py,8,-,8,DISAGREE
+5010,443,https://github.com/bioinf-jku/SNNs,# Self-Normalizing Networks,1,12,1,DISAGREE
+5011,443,https://github.com/bioinf-jku/SNNs,## Versions,3,3,34,DISAGREE
+5012,443,https://github.com/bioinf-jku/SNNs,#### Note for Tensorflow >= 1.4 users,3,3,34,DISAGREE
+5013,443,https://github.com/bioinf-jku/SNNs,#### Note for Tensorflow >= 2.0 users,3,3,34,DISAGREE
+5014,443,https://github.com/bioinf-jku/SNNs,#### Note for Pytorch users,3,3,34,DISAGREE
+5015,443,https://github.com/bioinf-jku/SNNs,## Tutorials,3,3,3,3
+5016,443,https://github.com/bioinf-jku/SNNs,### Tensorflow 1.x,3,3,3,3
+5017,443,https://github.com/bioinf-jku/SNNs,### Tensorflow 2.x (Keras),3,3,3,3
+5018,443,https://github.com/bioinf-jku/SNNs,### Pytorch,3,3,3,3
+5019,443,https://github.com/bioinf-jku/SNNs,## Further material,6,6,6,6
+5020,443,https://github.com/bioinf-jku/SNNs,### Design novel SELU functions (Tensorflow 1.x),36,36,36,36
+5021,443,https://github.com/bioinf-jku/SNNs,### Basic python functions to implement SNNs (Tensorflow 1.x),36,36,36,36
+5022,443,https://github.com/bioinf-jku/SNNs,### Notebooks and code to produce Figure 1 (Tensorflow 1.x),36,36,36,36
+5023,443,https://github.com/bioinf-jku/SNNs,### Calculations and numeric checks of the theorems (Mathematica),36,36,6,DISAGREE
+5024,443,https://github.com/bioinf-jku/SNNs,"### UCI, Tox21 and HTRU2 data sets",6,6,6,6
+5025,444,https://github.com/Redth/PushSharp,## Sample Usage,3,-,3,DISAGREE
+5026,444,https://github.com/Redth/PushSharp,### APNS Sample Usage,3,-,3,DISAGREE
+5027,444,https://github.com/Redth/PushSharp,#### Apple Notification Payload,6,-,6,DISAGREE
+5028,444,https://github.com/Redth/PushSharp,#### Apple APNS Feedback Service,3,-,3,DISAGREE
+5029,444,https://github.com/Redth/PushSharp,### GCM/FCM Sample Usage,3,--,3,DISAGREE
+5030,444,https://github.com/Redth/PushSharp,#### Components of a GCM/FCM Notification,6,-,6,DISAGREE
+5031,444,https://github.com/Redth/PushSharp,### WNS Sample Usage,3,-,3,DISAGREE
+5032,444,https://github.com/Redth/PushSharp,## How to Migrate from PushSharp 2.x to 3.x and higher,36,-,6,DISAGREE
+5033,444,https://github.com/Redth/PushSharp,## Roadmap,4,-,4,DISAGREE
+5034,445,https://github.com/go-acme/lego,# ![lego](./docs/static/images/logo.png),1,1,18,DISAGREE
+5035,445,https://github.com/go-acme/lego,## Features,13,1,13,DISAGREE
+5036,445,https://github.com/go-acme/lego,## Installation,3,3,3,3
+5037,445,https://github.com/go-acme/lego,## Usage,3,3,3,3
+5038,445,https://github.com/go-acme/lego,## Documentation,36,36,36,36
+5039,445,https://github.com/go-acme/lego,## DNS providers,6,36,36,DISAGREE
+5040,446,https://github.com/fpinscala/fpinscala,### Setup build environment,3,3,3,3
+5041,446,https://github.com/fpinscala/fpinscala,### Building,3,3,3,3
+5042,447,https://github.com/learnbyexample/Command-line-text-processing,# Command Line Text Processing,14,14,124,DISAGREE
+5043,447,https://github.com/learnbyexample/Command-line-text-processing,## Ebooks,7,6,6,DISAGREE
+5044,447,https://github.com/learnbyexample/Command-line-text-processing,## Chapters,46,6,36,DISAGREE
+5045,447,https://github.com/learnbyexample/Command-line-text-processing,## Webinar recordings,6,6,6,6
+5046,447,https://github.com/learnbyexample/Command-line-text-processing,## Exercises,36,6,36,DISAGREE
+5047,447,https://github.com/learnbyexample/Command-line-text-processing,## Contributing,7,7,7,7
+5048,447,https://github.com/learnbyexample/Command-line-text-processing,## Acknowledgements,5,5,5,5
+5049,447,https://github.com/learnbyexample/Command-line-text-processing,## License,5,5,5,5
+5050,448,https://github.com/TUNER88/iOSSystemSoundsLibrary,##How to use in your project:,3,3,3,3
+5051,448,https://github.com/TUNER88/iOSSystemSoundsLibrary,####Play sound using SystemSoundID,3,3,3,3
+5052,448,https://github.com/TUNER88/iOSSystemSoundsLibrary,####Play sound using file url,3,3,3,3
+5053,449,https://github.com/justmarkham/DAT8,## DAT8 Course Repository,-,-,-,-
+5054,449,https://github.com/justmarkham/DAT8,### Before the Course Begins,-,-,-,-
+5055,449,https://github.com/justmarkham/DAT8,### Python Resources,-,-,-,-
+5056,449,https://github.com/justmarkham/DAT8,### Submission Forms,-,-,-,-
+5057,449,https://github.com/justmarkham/DAT8,### [Course project](project/README.md),-,-,-,-
+5058,449,https://github.com/justmarkham/DAT8,### [Comparison of machine learning models](other/model_comparison.md),-,-,-,-
+5059,449,https://github.com/justmarkham/DAT8,### [Comparison of model evaluation procedures and metrics](other/model_evaluation_comparison.md),-,-,-,-
+5060,449,https://github.com/justmarkham/DAT8,### [Advice for getting better at data science](other/advice.md),-,-,-,-
+5061,449,https://github.com/justmarkham/DAT8,### [Additional resources](#additional-resources-1),-,-,-,-
+5062,449,https://github.com/justmarkham/DAT8,### Class 1: Introduction to Data Science,-,-,-,-
+5063,449,https://github.com/justmarkham/DAT8,### Class 2: Command Line and Version Control,-,-,-,-
+5064,449,https://github.com/justmarkham/DAT8,### Class 3: Data Reading and Cleaning,-,-,-,-
+5065,449,https://github.com/justmarkham/DAT8,### Class 4: Exploratory Data Analysis,-,-,-,-
+5066,449,https://github.com/justmarkham/DAT8,### Class 5: Visualization,-,-,-,-
+5067,449,https://github.com/justmarkham/DAT8,### Class 6: Machine Learning,-,-,-,-
+5068,449,https://github.com/justmarkham/DAT8,### Class 7: Getting Data,-,-,-,-
+5069,449,https://github.com/justmarkham/DAT8,### Class 8: K-Nearest Neighbors,-,-,-,-
+5070,449,https://github.com/justmarkham/DAT8,### Class 9: Basic Model Evaluation,-,-,-,-
+5071,449,https://github.com/justmarkham/DAT8,### Class 10: Linear Regression,-,-,-,-
+5072,449,https://github.com/justmarkham/DAT8,### Class 11: First Project Presentation,-,-,-,-
+5073,449,https://github.com/justmarkham/DAT8,### Class 12: Logistic Regression,-,-,-,-
+5074,449,https://github.com/justmarkham/DAT8,### Class 13: Advanced Model Evaluation,-,-,-,-
+5075,449,https://github.com/justmarkham/DAT8,### Class 14: Naive Bayes and Text Data,-,-,-,-
+5076,449,https://github.com/justmarkham/DAT8,### Class 15: Natural Language Processing,-,-,-,-
+5077,449,https://github.com/justmarkham/DAT8,### Class 16: Kaggle Competition,-,-,-,-
+5078,449,https://github.com/justmarkham/DAT8,### Class 17: Decision Trees,-,-,-,-
+5079,449,https://github.com/justmarkham/DAT8,### Class 18: Ensembling,-,-,-,-
+5080,449,https://github.com/justmarkham/DAT8,### Class 19: Advanced scikit-learn and Clustering,-,-,-,-
+5081,449,https://github.com/justmarkham/DAT8,### Class 20: Regularization and Regular Expressions,-,-,-,-
+5082,449,https://github.com/justmarkham/DAT8,### Class 21: Course Review and Final Project Presentation,-,-,-,-
+5083,449,https://github.com/justmarkham/DAT8,### Class 22: Final Project Presentation,-,-,-,-
+5084,449,https://github.com/justmarkham/DAT8,## Additional Resources,-,-,-,-
+5085,449,https://github.com/justmarkham/DAT8,### Tidy Data,-,-,-,-
+5086,449,https://github.com/justmarkham/DAT8,### Databases and SQL,-,-,-,-
+5087,449,https://github.com/justmarkham/DAT8,### Recommendation Systems,-,-,-,-
+5088,450,https://github.com/MicrosoftDocs/live-share,# Visual Studio Live Share Docs & Feedback,146,16,1246,DISAGREE
+5089,450,https://github.com/MicrosoftDocs/live-share,## Quickstarts,67,6,67,DISAGREE
+5090,450,https://github.com/MicrosoftDocs/live-share,## How-tos,367,36,367,DISAGREE
+5091,450,https://github.com/MicrosoftDocs/live-share,## Reference,6,6,6,6
+5092,450,https://github.com/MicrosoftDocs/live-share,## Resources,6,6,6,6
+5093,450,https://github.com/MicrosoftDocs/live-share,## Community-created content,6,6,6,6
+5094,450,https://github.com/MicrosoftDocs/live-share,## Download and install Visual Studio Live Share,3,3,3,3
+5095,450,https://github.com/MicrosoftDocs/live-share,## Contributing & Feedback,67,7,67,DISAGREE
+5096,450,https://github.com/MicrosoftDocs/live-share,## License,5,5,5,5
+5097,451,https://github.com/Attendize/Attendize,# Attendize,136,136,136,136
+5098,451,https://github.com/Attendize/Attendize,## Current Features (v2.X.X),1,1,14,DISAGREE
+5099,451,https://github.com/Attendize/Attendize,## Minimum Requirements,3,3,3,3
+5100,451,https://github.com/Attendize/Attendize,## Contributing,7,7,7,7
+5101,451,https://github.com/Attendize/Attendize,## Submitting an issue,6,6,36,DISAGREE
+5102,451,https://github.com/Attendize/Attendize,## Installation,36,36,3,DISAGREE
+5103,451,https://github.com/Attendize/Attendize,## Testing,3,3,3,3
+5104,451,https://github.com/Attendize/Attendize,"# If the testing db does not exist yet, please create it",8,8,8,8
+5105,451,https://github.com/Attendize/Attendize,# Run the test suite,8,8,8,8
+5106,451,https://github.com/Attendize/Attendize,## Troubleshooting,36,36,36,36
+5107,451,https://github.com/Attendize/Attendize,## License,5,5,5,5
+5108,451,https://github.com/Attendize/Attendize,## Code of Conduct,5,5,5,5
+5109,452,https://github.com/voat/voat,# Quick Status Updates,14,14,14,14
+5110,452,https://github.com/voat/voat,# Voat Branch for .NET Core Port (With the PostgreSQL Branch Merged),14,14,14,14
+5111,453,https://github.com/groupon/greenscreen,# Greenscreen,1,1,1,1
+5112,453,https://github.com/groupon/greenscreen,## How to Use,3,3,3,3
+5113,453,https://github.com/groupon/greenscreen,### Home,3,3,3,3
+5114,453,https://github.com/groupon/greenscreen,### Channels,3,3,3,3
+5115,453,https://github.com/groupon/greenscreen,### Chromecasts,3,3,3,3
+5116,453,https://github.com/groupon/greenscreen,### Alerts,3,3,3,3
+5117,453,https://github.com/groupon/greenscreen,### Channel Takeover,3,3,3,3
+5118,453,https://github.com/groupon/greenscreen,## Getting Started: Local,3,3,3,3
+5119,453,https://github.com/groupon/greenscreen,### Installing dependencies,3,3,3,3
+5120,453,https://github.com/groupon/greenscreen,### Registering your Application,3,3,3,3
+5121,453,https://github.com/groupon/greenscreen,### Registering your Chromecasts,3,3,3,3
+5122,453,https://github.com/groupon/greenscreen,### Setting up your Chromecasts,3,3,3,3
+5123,453,https://github.com/groupon/greenscreen,### Application Config,3,3,3,3
+5124,453,https://github.com/groupon/greenscreen,### Starting the Server,3,3,3,3
+5125,453,https://github.com/groupon/greenscreen,## Developing,3,3,3,3
+5126,453,https://github.com/groupon/greenscreen,## Tests,3,3,3,3
+5127,453,https://github.com/groupon/greenscreen,## Known Issues,3,3,3,3
+5128,453,https://github.com/groupon/greenscreen,## Troubleshooting,3,3,3,3
+5129,453,https://github.com/groupon/greenscreen,## Security,3,3,3,3
+5130,453,https://github.com/groupon/greenscreen,"#### Good luck, and happy casting! :)",8,8,8,8
+5131,454,https://github.com/sysown/proxysql,### Installation,3,34,3,DISAGREE
+5132,454,https://github.com/sysown/proxysql,#### Ubuntu / Debian:,3,3,3,3
+5133,454,https://github.com/sysown/proxysql,#### Red Hat / CentOS:,3,3,3,3
+5134,454,https://github.com/sysown/proxysql,#### Amazon Linux Servers (AMI):,3,3,3,3
+5135,454,https://github.com/sysown/proxysql,### Service management,3,3,3,3
+5136,454,https://github.com/sysown/proxysql,#### Starting ProxySQL:,3,3,3,3
+5137,454,https://github.com/sysown/proxysql,#### Stopping ProxySQL:,3,3,3,3
+5138,454,https://github.com/sysown/proxysql,#### Restarting ProxySQL:,3,3,3,3
+5139,454,https://github.com/sysown/proxysql,#### Reinitializing ProxySQL from the config file (after first startup the DB file is used instead of the config file):,3,3,3,3
+5140,454,https://github.com/sysown/proxysql,# If you are using the init script run:,8,8,8,8
+5141,454,https://github.com/sysown/proxysql,# or,8,8,8,8
+5142,454,https://github.com/sysown/proxysql,# If you are using the systemd unit file run:,8,8,8,8
+5143,454,https://github.com/sysown/proxysql,# or,8,8,8,8
+5144,454,https://github.com/sysown/proxysql,### Upgrades,3,3,3,3
+5145,454,https://github.com/sysown/proxysql,### How to check the ProxySQL version,3,3,3,3
+5146,454,https://github.com/sysown/proxysql,### Configuring ProxySQL via the `admin interface`,3,3,3,3
+5147,454,https://github.com/sysown/proxysql,#### Configuring ProxySQL through the admin interface,3,3,3,3
+5148,454,https://github.com/sysown/proxysql,#### Configuring ProxySQL through the config file,3,3,3,3
+5149,455,https://github.com/EasyIME/PIME,# PIME,125,135,1235,DISAGREE
+5150,455,https://github.com/EasyIME/PIME,# Development,3,3,3,3
+5151,455,https://github.com/EasyIME/PIME,## Tool Requirements,3,3,3,3
+5152,455,https://github.com/EasyIME/PIME,## How to Build,3,3,3,3
+5153,455,https://github.com/EasyIME/PIME,## TSF References,6,6,6,6
+5154,455,https://github.com/EasyIME/PIME,## Windows ACL (Access Control List) references,6,6,6,6
+5155,455,https://github.com/EasyIME/PIME,# Install,3,3,3,3
+5156,455,https://github.com/EasyIME/PIME,# Uninstall,3,3,3,3
+5157,455,https://github.com/EasyIME/PIME,# Bug Report,6,6,6,6
+5158,456,https://github.com/fontsource/fontsource,# Fontsource,16,16,16,16
+5159,456,https://github.com/fontsource/fontsource,##,,12,12,DISAGREE
+5160,456,https://github.com/fontsource/fontsource,## API,6,6,6,6
+5161,456,https://github.com/fontsource/fontsource,## Migrating from previous versions,6,6,6,6
+5162,456,https://github.com/fontsource/fontsource,## Adding New Fonts,37,37,37,37
+5163,456,https://github.com/fontsource/fontsource,## Licensing,5,5,5,5
+5164,456,https://github.com/fontsource/fontsource,## Other Notes,7,7,8,DISAGREE
+5165,457,https://github.com/pagekit/vue-resource,# vue-resource [![Build](https://circleci.com/gh/pagekit/vue-resource.svg?style=shield)](https://circleci.com/gh/pagekit/vue-resource) [![Downloads](https://img.shields.io/npm/dm/vue-resource.svg)](https://www.npmjs.com/package/vue-resource) [![jsdelivr](https://data.jsdelivr.com/v1/package/npm/vue-resource/badge?style=rounded)](https://www.jsdelivr.com/package/npm/vue-resource) [![Version](https://img.shields.io/npm/v/vue-resource.svg)](https://www.npmjs.com/package/vue-resource) [![License](https://img.shields.io/npm/l/vue-resource.svg)](https://www.npmjs.com/package/vue-resource),1,1,12,DISAGREE
+5166,457,https://github.com/pagekit/vue-resource,## Features,1,1,13,DISAGREE
+5167,457,https://github.com/pagekit/vue-resource,## Installation,3,3,3,3
+5168,457,https://github.com/pagekit/vue-resource,### CDN,36,36,36,36
+5169,457,https://github.com/pagekit/vue-resource,## Example,3,3,3,3
+5170,457,https://github.com/pagekit/vue-resource,## Documentation,6,6,6,6
+5171,457,https://github.com/pagekit/vue-resource,## Changelog,4,4,4,4
+5172,457,https://github.com/pagekit/vue-resource,## Contribution,7,7,7,7
+5173,457,https://github.com/pagekit/vue-resource,## License,5,5,5,5
+5174,458,https://github.com/watson-developer-cloud/python-sdk,# Watson Developer Cloud Python SDK,1,1,1,1
+5175,458,https://github.com/watson-developer-cloud/python-sdk,## Deprecated builds,4,14,4,DISAGREE
+5176,458,https://github.com/watson-developer-cloud/python-sdk,## Announcements,4,4,8,DISAGREE
+5177,458,https://github.com/watson-developer-cloud/python-sdk,### Natural Language Classifier deprecation,46,46,8,DISAGREE
+5178,458,https://github.com/watson-developer-cloud/python-sdk,### Updating endpoint URLs from watsonplatform.net,46,46,8,DISAGREE
+5179,458,https://github.com/watson-developer-cloud/python-sdk,### Personality Insights deprecation,46,46,8,DISAGREE
+5180,458,https://github.com/watson-developer-cloud/python-sdk,### Visual Recognition deprecation,4,4,8,DISAGREE
+5181,458,https://github.com/watson-developer-cloud/python-sdk,### Compare and Comply deprecation,46,46,8,DISAGREE
+5182,458,https://github.com/watson-developer-cloud/python-sdk,## Before you begin,3,3,3,3
+5183,458,https://github.com/watson-developer-cloud/python-sdk,## Installation,3,3,3,3
+5184,458,https://github.com/watson-developer-cloud/python-sdk,## Examples,36,6,36,DISAGREE
+5185,458,https://github.com/watson-developer-cloud/python-sdk,## Running in IBM Cloud,3,3,3,3
+5186,458,https://github.com/watson-developer-cloud/python-sdk,## Authentication,3,3,3,3
+5187,458,https://github.com/watson-developer-cloud/python-sdk,### Getting credentials,3,3,3,3
+5188,458,https://github.com/watson-developer-cloud/python-sdk,### Supplying credentials,3,3,3,3
+5189,458,https://github.com/watson-developer-cloud/python-sdk,#### Credential file,3,3,3,3
+5190,458,https://github.com/watson-developer-cloud/python-sdk,#### Environment Variables,3,3,3,3
+5191,458,https://github.com/watson-developer-cloud/python-sdk,#### Manually,3,3,3,3
+5192,458,https://github.com/watson-developer-cloud/python-sdk,### IAM,3,3,3,3
+5193,458,https://github.com/watson-developer-cloud/python-sdk,#### Supplying the API key,3,3,3,3
+5194,458,https://github.com/watson-developer-cloud/python-sdk,"# In the constructor, letting the SDK manage the token",8,8,8,8
+5195,458,https://github.com/watson-developer-cloud/python-sdk,#### Generating bearer tokens using API key,3,3,3,3
+5196,458,https://github.com/watson-developer-cloud/python-sdk,# In your API endpoint use this to generate new bearer tokens,8,8,8,8
+5197,458,https://github.com/watson-developer-cloud/python-sdk,##### Supplying the bearer token,3,3,3,3
+5198,458,https://github.com/watson-developer-cloud/python-sdk,"# in the constructor, assuming control of managing the token",8,8,8,8
+5199,458,https://github.com/watson-developer-cloud/python-sdk,### Username and password,3,3,3,3
+5200,458,https://github.com/watson-developer-cloud/python-sdk,### No Authentication,3,3,3,3
+5201,458,https://github.com/watson-developer-cloud/python-sdk,## Python version,3,3,34,DISAGREE
+5202,458,https://github.com/watson-developer-cloud/python-sdk,## Questions,6,6,6,6
+5203,458,https://github.com/watson-developer-cloud/python-sdk,## Changes for v1.0,4,4,4,4
+5204,458,https://github.com/watson-developer-cloud/python-sdk,## Changes for v2.0,4,4,4,4
+5205,458,https://github.com/watson-developer-cloud/python-sdk,## Changes for v3.0,4,4,4,4
+5206,458,https://github.com/watson-developer-cloud/python-sdk,## Changes for v4.0,4,4,4,4
+5207,458,https://github.com/watson-developer-cloud/python-sdk,## Migration,36,46,3,DISAGREE
+5208,458,https://github.com/watson-developer-cloud/python-sdk,## Configuring the http client (Supported from v1.1.0),3,3,3,3
+5209,458,https://github.com/watson-developer-cloud/python-sdk,## Disable SSL certificate verification,3,3,3,3
+5210,458,https://github.com/watson-developer-cloud/python-sdk,## Setting the service url,3,3,3,3
+5211,458,https://github.com/watson-developer-cloud/python-sdk,## Sending request headers,3,3,3,3
+5212,458,https://github.com/watson-developer-cloud/python-sdk,## Parsing HTTP response information,3,3,3,3
+5213,458,https://github.com/watson-developer-cloud/python-sdk,## Getting the transaction ID,3,3,3,3
+5214,458,https://github.com/watson-developer-cloud/python-sdk,### Suceess,3,3,3,3
+5215,458,https://github.com/watson-developer-cloud/python-sdk,### Failure,3,3,3,3
+5216,458,https://github.com/watson-developer-cloud/python-sdk,## Using Websockets,3,3,3,3
+5217,458,https://github.com/watson-developer-cloud/python-sdk,## Cloud Pak for Data,3,3,3,3
+5218,458,https://github.com/watson-developer-cloud/python-sdk,"### 1) Supplying the username, password and authentication url",3,3,3,3
+5219,458,https://github.com/watson-developer-cloud/python-sdk,### 2) Supplying the access token,3,3,3,3
+5220,458,https://github.com/watson-developer-cloud/python-sdk,## Logging,3,3,3,3
+5221,458,https://github.com/watson-developer-cloud/python-sdk,### Enable logging,3,3,3,3
+5222,458,https://github.com/watson-developer-cloud/python-sdk,### Low level request and response dump,3,3,3,3
+5223,458,https://github.com/watson-developer-cloud/python-sdk,## Dependencies,3,3,3,3
+5224,458,https://github.com/watson-developer-cloud/python-sdk,## Contributing,7,7,7,7
+5225,458,https://github.com/watson-developer-cloud/python-sdk,## Featured Projects,6,6,6,6
+5226,458,https://github.com/watson-developer-cloud/python-sdk,## License,5,5,5,5
+5227,459,https://github.com/davidcelis/recommendable,# Recommendable,16,16,126,DISAGREE
+5228,459,https://github.com/davidcelis/recommendable,## Requirements,3,3,3,3
+5229,459,https://github.com/davidcelis/recommendable,## Installation,3,3,3,3
+5230,459,https://github.com/davidcelis/recommendable,## Usage,3,3,3,3
+5231,459,https://github.com/davidcelis/recommendable,# sidekiq,8,8,8,8
+5232,459,https://github.com/davidcelis/recommendable,# resque,8,8,8,8
+5233,459,https://github.com/davidcelis/recommendable,# delayed_job,8,8,8,8
+5234,459,https://github.com/davidcelis/recommendable,## Installing Redis,3,3,3,3
+5235,459,https://github.com/davidcelis/recommendable,### Mac OS X,3,3,3,3
+5236,459,https://github.com/davidcelis/recommendable,### Linux,3,3,3,3
+5237,459,https://github.com/davidcelis/recommendable,## Why not stars?,2,2,2,2
+5238,459,https://github.com/davidcelis/recommendable,## Links,6,6,6,6
+5239,460,https://github.com/invertase/rdash-angular,# RDash rdash-angular,1,1,1,1
+5240,460,https://github.com/invertase/rdash-angular,"## Responsive, bloat free, bootstrap powered admin style dashboard!",1,1,1,1
+5241,460,https://github.com/invertase/rdash-angular,## Usage,3,3,3,3
+5242,460,https://github.com/invertase/rdash-angular,### Requirements,3,3,3,3
+5243,460,https://github.com/invertase/rdash-angular,### Installation,3,3,3,3
+5244,460,https://github.com/invertase/rdash-angular,### Development,3,3,3,3
+5245,460,https://github.com/invertase/rdash-angular,#### Modules & Packages,3,3,3,3
+5246,460,https://github.com/invertase/rdash-angular,## Credits,5,5,5,5
+5247,461,https://github.com/thepirat000/Audit.NET,# Audit.NET,1,1,1,1
+5248,461,https://github.com/thepirat000/Audit.NET,### An extensible framework to audit executing operations in .NET and .NET Core.,126,123,126,DISAGREE
+5249,461,https://github.com/thepirat000/Audit.NET,## [NuGet](https://www.nuget.org/packages/Audit.NET/),3,3,3,3
+5250,461,https://github.com/thepirat000/Audit.NET,## Changelog,4,4,4,4
+5251,461,https://github.com/thepirat000/Audit.NET,"## <span style=""color:red"">Breaking change in version 18</span>",3,3,4,DISAGREE
+5252,461,https://github.com/thepirat000/Audit.NET,## Usage,3,3,3,3
+5253,461,https://github.com/thepirat000/Audit.NET,#### AuditScope options,3,3,3,3
+5254,461,https://github.com/thepirat000/Audit.NET,### Simple logging,3,3,3,3
+5255,461,https://github.com/thepirat000/Audit.NET,### Manual Saving,36,3,36,DISAGREE
+5256,461,https://github.com/thepirat000/Audit.NET,## Asynchronous operations,3,3,34,DISAGREE
+5257,461,https://github.com/thepirat000/Audit.NET,## Output,3,3,3,3
+5258,461,https://github.com/thepirat000/Audit.NET,## Output details,3,3,3,3
+5259,461,https://github.com/thepirat000/Audit.NET,## Custom Fields and Comments,3,3,3,3
+5260,461,https://github.com/thepirat000/Audit.NET,### Extending AuditEvent,3,3,3,3
+5261,461,https://github.com/thepirat000/Audit.NET,## Discard option,3,3,3,3
+5262,461,https://github.com/thepirat000/Audit.NET,## Data providers,3,3,36,DISAGREE
+5263,461,https://github.com/thepirat000/Audit.NET,### Data provider selection,36,3,36,DISAGREE
+5264,461,https://github.com/thepirat000/Audit.NET,### Dynamic data providers,3,3,3,3
+5265,461,https://github.com/thepirat000/Audit.NET,#### Data providers included,3,3,3,3
+5266,461,https://github.com/thepirat000/Audit.NET,## Event Creation Policy,3,3,3,3
+5267,461,https://github.com/thepirat000/Audit.NET,## AuditScope statechart,3,3,8,DISAGREE
+5268,461,https://github.com/thepirat000/Audit.NET,# Configuration,3,3,3,3
+5269,461,https://github.com/thepirat000/Audit.NET,### Data provider,3,3,3,3
+5270,461,https://github.com/thepirat000/Audit.NET,### Creation Policy,3,3,3,3
+5271,461,https://github.com/thepirat000/Audit.NET,### Custom Actions,3,3,3,3
+5272,461,https://github.com/thepirat000/Audit.NET,### Global switch off,3,3,3,3
+5273,461,https://github.com/thepirat000/Audit.NET,### Global serialization settings,3,3,3,3
+5274,461,https://github.com/thepirat000/Audit.NET,#### Custom serialization mechanism,3,3,3,3
+5275,461,https://github.com/thepirat000/Audit.NET,#### Alternative serialization mechanism,3,3,3,3
+5276,461,https://github.com/thepirat000/Audit.NET,## Configuration Fluent API,35,36,36,DISAGREE
+5277,461,https://github.com/thepirat000/Audit.NET,## Configuration examples,3,3,3,3
+5278,461,https://github.com/thepirat000/Audit.NET,##### File log provider with dynamic directory path and filename:,3,3,3,3
+5279,461,https://github.com/thepirat000/Audit.NET,"##### File log provider with an InsertOnStart-ReplaceOnEnd creation policy, and a global custom field set in a custom action:",3,3,3,3
+5280,461,https://github.com/thepirat000/Audit.NET,##### Event log provider with an InsertOnEnd creation policy:,3,3,3,3
+5281,461,https://github.com/thepirat000/Audit.NET,##### Dynamic provider to log to the console:,3,3,3,3
+5282,461,https://github.com/thepirat000/Audit.NET,# Extensions,36,3,36,DISAGREE
+5283,461,https://github.com/thepirat000/Audit.NET,# Storage providers,36,3,36,DISAGREE
+5284,461,https://github.com/thepirat000/Audit.NET,# Change Log,4,4,4,4
+5285,461,https://github.com/thepirat000/Audit.NET,# Contribute,7,7,7,7
+5286,462,https://github.com/braisdom/ObjectiveSql,### Key Features,1,1,1,1
+5287,462,https://github.com/braisdom/ObjectiveSql,### Why to choose,2,2,2,2
+5288,462,https://github.com/braisdom/ObjectiveSql,### Performance(Oracle JMH),2,2,8,DISAGREE
+5289,462,https://github.com/braisdom/ObjectiveSql,### Installation,3,3,36,DISAGREE
+5290,462,https://github.com/braisdom/ObjectiveSql,##### IntelliJ IDEA plugin installation,3,3,3,3
+5291,462,https://github.com/braisdom/ObjectiveSql,##### Maven dependencies,3,36,3,DISAGREE
+5292,462,https://github.com/braisdom/ObjectiveSql,### Examples,36,36,16,DISAGREE
+5293,462,https://github.com/braisdom/ObjectiveSql,#### Simple SQL programming without coding,3,3,3,3
+5294,462,https://github.com/braisdom/ObjectiveSql,##### Persistence,3,3,3,3
+5295,462,https://github.com/braisdom/ObjectiveSql,##### Counting and querying,3,3,3,3
+5296,462,https://github.com/braisdom/ObjectiveSql,##### Paged querying,3,3,3,3
+5297,462,https://github.com/braisdom/ObjectiveSql,##### Relation querying,3,3,3,3
+5298,462,https://github.com/braisdom/ObjectiveSql,### Complex SQL programming,3,3,3,3
+5299,462,https://github.com/braisdom/ObjectiveSql,### Reference documentation,6,6,6,6
+5300,463,https://github.com/PrismLibrary/Prism-Samples-Wpf,# Prism Samples WPF,13,3,13,DISAGREE
+5301,464,https://github.com/randyrants/sharpkeys,## Project Description,1,1,1,1
+5302,464,https://github.com/randyrants/sharpkeys,## Call for feedback!,46,46,46,46
+5303,464,https://github.com/randyrants/sharpkeys,## Original Mission:,12,1,12,DISAGREE
+5304,464,https://github.com/randyrants/sharpkeys,## Install,3,3,3,3
+5305,464,https://github.com/randyrants/sharpkeys,### Manual,3,3,3,3
+5306,464,https://github.com/randyrants/sharpkeys,### winget,3,3,3,3
+5307,464,https://github.com/randyrants/sharpkeys,### scoop,3,3,3,3
+5308,464,https://github.com/randyrants/sharpkeys,## How do I use it?  Getting Started,3,3,3,3
+5309,464,https://github.com/randyrants/sharpkeys,## Things that SharpKeys _will_ do:,1,1,1,1
+5310,464,https://github.com/randyrants/sharpkeys,## Things that SharpKeys **_will not_** do:,1,1,1,1
+5311,464,https://github.com/randyrants/sharpkeys,## Additional FAQ and answers ##,1,8,12,DISAGREE
+5312,464,https://github.com/randyrants/sharpkeys,## Existing saved keyboard layouts,6,6,56,DISAGREE
+5313,464,https://github.com/randyrants/sharpkeys,## Hope for GitHub contributions:,7,7,7,7
+5314,464,https://github.com/randyrants/sharpkeys,## Page for donations:,5,8,56,DISAGREE
+5315,465,https://github.com/heartcombo/devise,## Table of Contents,8,8,8,8
+5316,465,https://github.com/heartcombo/devise,## Information,16,6,1,DISAGREE
+5317,465,https://github.com/heartcombo/devise,### The Devise wiki,16,3,16,DISAGREE
+5318,465,https://github.com/heartcombo/devise,### Bug reports,6,6,36,DISAGREE
+5319,465,https://github.com/heartcombo/devise,### StackOverflow and Mailing List,6,6,5,DISAGREE
+5320,465,https://github.com/heartcombo/devise,### RDocs,6,6,16,DISAGREE
+5321,465,https://github.com/heartcombo/devise,### Example applications,36,6,36,DISAGREE
+5322,465,https://github.com/heartcombo/devise,### Extensions,6,3,6,DISAGREE
+5323,465,https://github.com/heartcombo/devise,### Contributing,7,7,7,7
+5324,465,https://github.com/heartcombo/devise,### DEVISE_ORM,3,3,23,DISAGREE
+5325,465,https://github.com/heartcombo/devise,### BUNDLE_GEMFILE,3,3,3,3
+5326,465,https://github.com/heartcombo/devise,### Running tests,3,3,3,3
+5327,465,https://github.com/heartcombo/devise,## Starting with Rails?,6,6,16,DISAGREE
+5328,465,https://github.com/heartcombo/devise,## Getting started,3,3,3,3
+5329,465,https://github.com/heartcombo/devise,### Controller filters and helpers,3,3,3,3
+5330,465,https://github.com/heartcombo/devise,### Configuring Models,3,3,3,3
+5331,465,https://github.com/heartcombo/devise,### Strong Parameters,34,3,34,DISAGREE
+5332,465,https://github.com/heartcombo/devise,### Configuring views,3,3,3,3
+5333,465,https://github.com/heartcombo/devise,### Configuring controllers,3,3,3,3
+5334,465,https://github.com/heartcombo/devise,### Configuring routes,3,3,3,3
+5335,465,https://github.com/heartcombo/devise,### I18n,3,3,3,3
+5336,465,https://github.com/heartcombo/devise,### Test helpers,3,3,3,3
+5337,465,https://github.com/heartcombo/devise,### Controller tests,3,3,3,3
+5338,465,https://github.com/heartcombo/devise,### Integration tests,36,36,36,36
+5339,465,https://github.com/heartcombo/devise,### OmniAuth,36,36,36,36
+5340,465,https://github.com/heartcombo/devise,### Configuring multiple models,3,3,3,3
+5341,465,https://github.com/heartcombo/devise,# Create a migration with the required fields,8,8,8,8
+5342,465,https://github.com/heartcombo/devise,# Inside your Admin model,8,8,8,8
+5343,465,https://github.com/heartcombo/devise,# Inside your routes,8,8,8,8
+5344,465,https://github.com/heartcombo/devise,# Inside your protected controller,8,8,8,8
+5345,465,https://github.com/heartcombo/devise,# Inside your controllers and views,8,8,8,8
+5346,465,https://github.com/heartcombo/devise,### ActiveJob Integration,3,3,3,3
+5347,465,https://github.com/heartcombo/devise,### Password reset tokens and Rails logs,3,3,3,3
+5348,465,https://github.com/heartcombo/devise,### Other ORMs,3,3,3,3
+5349,465,https://github.com/heartcombo/devise,### Rails API Mode,3,3,3,3
+5350,465,https://github.com/heartcombo/devise,#### Supported Authentication Strategies,36,36,3,DISAGREE
+5351,465,https://github.com/heartcombo/devise,#### Testing,3,3,3,3
+5352,465,https://github.com/heartcombo/devise,## Additional information,6,6,6,6
+5353,465,https://github.com/heartcombo/devise,### Warden,16,6,16,DISAGREE
+5354,465,https://github.com/heartcombo/devise,### Contributors,5,5,5,5
+5355,465,https://github.com/heartcombo/devise,## License,5,5,5,5
+5356,466,https://github.com/kotlin-orm/ktorm,# What's Ktorm?,126,16,126,DISAGREE
+5357,466,https://github.com/kotlin-orm/ktorm,# Features,1,1,1,1
+5358,466,https://github.com/kotlin-orm/ktorm,# Quick Start,3,3,3,3
+5359,466,https://github.com/kotlin-orm/ktorm,## SQL DSL,36,3,36,DISAGREE
+5360,466,https://github.com/kotlin-orm/ktorm,## Entities and Column Binding,3,3,3,3
+5361,466,https://github.com/kotlin-orm/ktorm,## Entity Sequence APIs,3,3,3,3
+5362,466,https://github.com/kotlin-orm/ktorm,### Intermediate Operations,3,3,3,3
+5363,466,https://github.com/kotlin-orm/ktorm,### Terminal Operations,3,3,3,3
+5364,466,https://github.com/kotlin-orm/ktorm,### Sequence Aggregation,3,3,3,3
+5365,467,https://github.com/Rudrabha/Wav2Lip,# **Wav2Lip**: *Accurately Lip-syncing Videos In The Wild*,156,156,156,156
+5366,467,https://github.com/Rudrabha/Wav2Lip,##### Tips for better results:,3,3,3,3
+5367,467,https://github.com/Rudrabha/Wav2Lip,##### LRS2 dataset folder structure,3,3,8,DISAGREE
+5368,467,https://github.com/Rudrabha/Wav2Lip,##### Preprocess the dataset for fast training,3,3,3,3
+5369,467,https://github.com/Rudrabha/Wav2Lip,##### Preprocessed LRS2 folder structure,3,3,8,DISAGREE
+5370,467,https://github.com/Rudrabha/Wav2Lip,##### Training the expert discriminator,3,3,3,3
+5371,467,https://github.com/Rudrabha/Wav2Lip,##### Training the Wav2Lip models,3,3,3,3
+5372,468,https://github.com/yargs/yargs,## Description,1,1,12,DISAGREE
+5373,468,https://github.com/yargs/yargs,## Installation,3,3,3,3
+5374,468,https://github.com/yargs/yargs,## Usage,3,3,3,3
+5375,468,https://github.com/yargs/yargs,### Simple Example,3,3,3,3
+5376,468,https://github.com/yargs/yargs,#!/usr/bin/env node,8,8,8,8
+5377,468,https://github.com/yargs/yargs,### Complex Example,3,3,3,3
+5378,468,https://github.com/yargs/yargs,#!/usr/bin/env node,8,8,8,8
+5379,468,https://github.com/yargs/yargs,## Supported Platforms,3,3,3,3
+5380,468,https://github.com/yargs/yargs,### TypeScript,36,36,36,36
+5381,468,https://github.com/yargs/yargs,### Deno,3,3,36,DISAGREE
+5382,468,https://github.com/yargs/yargs,### ESM,3,3,3,3
+5383,468,https://github.com/yargs/yargs,### Usage in Browser,6,6,6,6
+5384,468,https://github.com/yargs/yargs,## Community,5,5,5,5
+5385,468,https://github.com/yargs/yargs,## Documentation,6,6,6,6
+5386,468,https://github.com/yargs/yargs,### Table of Contents,8,8,8,8
+5387,468,https://github.com/yargs/yargs,## Supported Node.js Versions,4,4,4,4
+5388,469,https://github.com/tighten/ziggy,# Ziggy â€“ Use your Laravel routes in JavaScript,12,1,124,DISAGREE
+5389,469,https://github.com/tighten/ziggy,## Installation,3,3,3,3
+5390,469,https://github.com/tighten/ziggy,## Usage,3,3,3,3
+5391,469,https://github.com/tighten/ziggy,#### The `route()` helper,3,3,3,3
+5392,469,https://github.com/tighten/ziggy,#### The `Router` class,3,3,3,3
+5393,469,https://github.com/tighten/ziggy,#### Route-model binding,3,3,3,3
+5394,469,https://github.com/tighten/ziggy,#### TypeScript support,3,3,3,3
+5395,469,https://github.com/tighten/ziggy,## Advanced Setup,3,3,3,3
+5396,469,https://github.com/tighten/ziggy,#### JavaScript frameworks,3,3,3,3
+5397,469,https://github.com/tighten/ziggy,#### Vue,3,3,3,3
+5398,469,https://github.com/tighten/ziggy,#### React,3,3,3,3
+5399,469,https://github.com/tighten/ziggy,#### SPAs or separate repos,3,3,3,3
+5400,469,https://github.com/tighten/ziggy,## Filtering Routes,3,3,3,3
+5401,469,https://github.com/tighten/ziggy,#### Basic filtering,3,3,3,3
+5402,469,https://github.com/tighten/ziggy,#### Filtering using groups,3,3,3,3
+5403,469,https://github.com/tighten/ziggy,## Other,3,3,3,3
+5404,469,https://github.com/tighten/ziggy,#### TLS/SSL termination and trusted proxies,3,3,3,3
+5405,469,https://github.com/tighten/ziggy,#### Using `@routes` with a Content Security Policy,3,3,3,3
+5406,469,https://github.com/tighten/ziggy,#### Disabling the `route()` helper,3,3,3,3
+5407,469,https://github.com/tighten/ziggy,#### Retrieving Ziggy's routes and config from an API endpoint,3,3,3,3
+5408,469,https://github.com/tighten/ziggy,#### Re-generating the routes file when your app routes change,3,3,3,3
+5409,469,https://github.com/tighten/ziggy,## Contributing,7,7,7,7
+5410,469,https://github.com/tighten/ziggy,## Credits,5,5,5,5
+5411,469,https://github.com/tighten/ziggy,## Security,6,6,6,6
+5412,469,https://github.com/tighten/ziggy,## License,5,5,5,5
+5413,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,# LaneNet-Lane-Detection,16,136,126,DISAGREE
+5414,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,## Installation,3,3,3,3
+5415,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,## Test model,3,3,3,3
+5416,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,## Train your own model,3,3,3,3
+5417,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,#### Data Preparation,3,3,3,3
+5418,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,#### Train model,3,3,3,3
+5419,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,## Experiment,3,3,36,DISAGREE
+5420,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,## Recently updates 2018.11.10,4,4,4,4
+5421,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,## Recently updates 2018.12.13,4,4,4,4
+5422,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,## Recently updates 2020.06.12,46,46,4,DISAGREE
+5423,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,## MNN Project,3,3,1,DISAGREE
+5424,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,#### Freeze your tensorflow ckpt model weights file,3,3,3,3
+5425,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,#### Convert pb model into mnn model,3,3,3,3
+5426,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,#### Add lanenet source code into MNN project,3,3,3,3
+5427,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,## TODO,4,4,4,4
+5428,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,## Acknowledgement,5,5,5,5
+5429,470,https://github.com/MaybeShewill-CV/lanenet-lane-detection,## Contact,5,5,5,5
+5430,471,https://github.com/dilshod/xlsx2csv,# xlsx2csv,1,1,1,1
+5431,471,https://github.com/dilshod/xlsx2csv,## Supported python versions:,3,3,3,3
+5432,471,https://github.com/dilshod/xlsx2csv,## Installation:,3,3,3,3
+5433,471,https://github.com/dilshod/xlsx2csv,## Meta,5,5,5,5
+5434,472,https://github.com/pytorch/audio,### Binary Distributions (stable and nightly),-,-,-,-
+5435,472,https://github.com/pytorch/audio,### From Source,-,-,-,-
+5436,472,https://github.com/pytorch/audio,# Linux,-,-,-,-
+5437,472,https://github.com/pytorch/audio,# OSX,-,-,-,-
+5438,472,https://github.com/pytorch/audio,# Windows,-,-,-,-
+5439,472,https://github.com/pytorch/audio,"# We need to use the MSVC x64 toolset for compilation, with Visual Studio's vcvarsall.bat or directly with vcvars64.bat.",-,-,-,-
+5440,472,https://github.com/pytorch/audio,"# These batch files are under Visual Studio's installation folder, under 'VC\Auxiliary\Build\'.",-,-,-,-
+5441,472,https://github.com/pytorch/audio,# More information available at:,-,-,-,-
+5442,472,https://github.com/pytorch/audio,#   https://docs.microsoft.com/en-us/cpp/build/how-to-enable-a-64-bit-visual-cpp-toolset-on-the-command-line?view=msvc-160#use-vcvarsallbat-to-set-a-64-bit-hosted-build-architecture,-,-,-,-
+5443,472,https://github.com/pytorch/audio,# or,-,-,-,-
+5444,474,https://github.com/topjohnwu/MagiskManager,# Magisk Manager,146,16,1,DISAGREE
+5445,474,https://github.com/topjohnwu/MagiskManager,# Translations,3,3,13,DISAGREE
+5446,475,https://github.com/xyproto/algernon,##### OS X,3,-,3,DISAGREE
+5447,475,https://github.com/xyproto/algernon,##### Arch Linux,3,-,3,DISAGREE
+5448,475,https://github.com/xyproto/algernon,##### Any system where go is available,3,-,3,DISAGREE
+5449,475,https://github.com/xyproto/algernon,"##### Run Algernon in ""dev"" mode",3,-,3,DISAGREE
+5450,475,https://github.com/xyproto/algernon,##### Enable HTTP/2 in the browser (for older browsers),3,-,3,DISAGREE
+5451,475,https://github.com/xyproto/algernon,##### Configure the required ports for local use,3,-,3,DISAGREE
+5452,475,https://github.com/xyproto/algernon,##### Prepare for running the samples,3,-,3,DISAGREE
+5453,475,https://github.com/xyproto/algernon,"##### Launch the ""welcome"" page",3,-,3,DISAGREE
+5454,475,https://github.com/xyproto/algernon,"##### Create your own Algernon application, for regular HTTP",3,-,3,DISAGREE
+5455,475,https://github.com/xyproto/algernon,"##### Create your own Algernon application, for HTTP/2 + HTTPS",3,-,3,DISAGREE
+5456,475,https://github.com/xyproto/algernon,##### Set,3,-,3,DISAGREE
+5457,475,https://github.com/xyproto/algernon,##### List,3,-,3,DISAGREE
+5458,475,https://github.com/xyproto/algernon,##### HashMap,3,-,3,DISAGREE
+5459,475,https://github.com/xyproto/algernon,##### KeyValue,3,-,3,DISAGREE
+5460,475,https://github.com/xyproto/algernon,### Example usage,3,-,3,DISAGREE
+5461,476,https://github.com/fundamentalvision/Deformable-DETR,# Deformable DETR,156,56,56,DISAGREE
+5462,476,https://github.com/fundamentalvision/Deformable-DETR,## Introduction,12,1,12,DISAGREE
+5463,476,https://github.com/fundamentalvision/Deformable-DETR,## License,5,5,5,5
+5464,476,https://github.com/fundamentalvision/Deformable-DETR,## Changelog,4,4,4,4
+5465,476,https://github.com/fundamentalvision/Deformable-DETR,## Citing Deformable DETR,5,5,5,5
+5466,476,https://github.com/fundamentalvision/Deformable-DETR,## Main Results,8,8,8,8
+5467,476,https://github.com/fundamentalvision/Deformable-DETR,## Installation,3,3,3,3
+5468,476,https://github.com/fundamentalvision/Deformable-DETR,### Requirements,3,3,3,3
+5469,476,https://github.com/fundamentalvision/Deformable-DETR,### Compiling CUDA operators,3,3,3,3
+5470,476,https://github.com/fundamentalvision/Deformable-DETR,# unit test (should see all checking is True),8,8,8,8
+5471,476,https://github.com/fundamentalvision/Deformable-DETR,## Usage,3,3,3,3
+5472,476,https://github.com/fundamentalvision/Deformable-DETR,### Dataset preparation,3,3,3,3
+5473,476,https://github.com/fundamentalvision/Deformable-DETR,### Training,3,3,3,3
+5474,476,https://github.com/fundamentalvision/Deformable-DETR,#### Training on single node,3,3,3,3
+5475,476,https://github.com/fundamentalvision/Deformable-DETR,#### Training on multiple nodes,3,3,3,3
+5476,476,https://github.com/fundamentalvision/Deformable-DETR,#### Training on slurm cluster,3,3,3,3
+5477,476,https://github.com/fundamentalvision/Deformable-DETR,#### Some tips to speed-up training,3,3,3,3
+5478,476,https://github.com/fundamentalvision/Deformable-DETR,### Evaluation,3,3,3,3
+5479,477,https://github.com/sharetribe/sharetribe,# Sharetribe,126,126,123,DISAGREE
+5480,477,https://github.com/sharetribe/sharetribe,### Contents,8,8,8,8
+5481,477,https://github.com/sharetribe/sharetribe,## Technology stack,3,3,3,3
+5482,477,https://github.com/sharetribe/sharetribe,## Installation,3,3,3,3
+5483,477,https://github.com/sharetribe/sharetribe,### Requirements,3,3,3,3
+5484,477,https://github.com/sharetribe/sharetribe,### Setting up the development environment,3,3,3,3
+5485,477,https://github.com/sharetribe/sharetribe,### Mailcatcher,3,3,3,3
+5486,477,https://github.com/sharetribe/sharetribe,### Database migrations,3,3,3,3
+5487,477,https://github.com/sharetribe/sharetribe,### Running tests,3,3,3,3
+5488,477,https://github.com/sharetribe/sharetribe,"### Working with React, Webpack and Foreman",3,3,3,3
+5489,477,https://github.com/sharetribe/sharetribe,### Setting up Sharetribe for production,3,3,3,3
+5490,477,https://github.com/sharetribe/sharetribe,#### Setting your domain,3,3,3,3
+5491,477,https://github.com/sharetribe/sharetribe,#### Setting up S3,3,3,3,3
+5492,477,https://github.com/sharetribe/sharetribe,##### Troubleshooting S3 Setup,3,3,3,3
+5493,477,https://github.com/sharetribe/sharetribe,### Advanced settings,3,3,3,3
+5494,477,https://github.com/sharetribe/sharetribe,### Unofficial installation instructions,36,36,36,36
+5495,477,https://github.com/sharetribe/sharetribe,## Payments,3,3,3,3
+5496,477,https://github.com/sharetribe/sharetribe,### Enable Stripe,3,3,34,DISAGREE
+5497,477,https://github.com/sharetribe/sharetribe,## Custom Landing Page,36,36,36,36
+5498,477,https://github.com/sharetribe/sharetribe,## Versioning,3,4,4,DISAGREE
+5499,477,https://github.com/sharetribe/sharetribe,## Changes,4,4,4,4
+5500,477,https://github.com/sharetribe/sharetribe,## Upgrade,34,34,34,34
+5501,477,https://github.com/sharetribe/sharetribe,## Contribute,7,7,7,7
+5502,477,https://github.com/sharetribe/sharetribe,## Release,7,4,34,DISAGREE
+5503,477,https://github.com/sharetribe/sharetribe,## Translation,7,7,8,DISAGREE
+5504,477,https://github.com/sharetribe/sharetribe,## Bug tracker,6,36,36,DISAGREE
+5505,477,https://github.com/sharetribe/sharetribe,## Documentation,6,6,6,6
+5506,477,https://github.com/sharetribe/sharetribe,## Community forum,5,5,5,5
+5507,477,https://github.com/sharetribe/sharetribe,## License,5,5,5,5
+5508,478,https://github.com/Klocman/Bulk-Crap-Uninstaller,### [:warning: Looking for maintainers :warning:](https://github.com/Klocman/Bulk-Crap-Uninstaller/discussions/289),4,8,8,DISAGREE
+5509,478,https://github.com/Klocman/Bulk-Crap-Uninstaller,# Bulk Crap Uninstaller,1456,1346,1346,DISAGREE
+5510,478,https://github.com/Klocman/Bulk-Crap-Uninstaller,## Download,8,8,8,8
+5511,478,https://github.com/Klocman/Bulk-Crap-Uninstaller,## How can I help?,7,7,7,7
+5512,478,https://github.com/Klocman/Bulk-Crap-Uninstaller,## Compiling,36,36,36,36
+5513,478,https://github.com/Klocman/Bulk-Crap-Uninstaller,## Screenshots,3,3,8,DISAGREE
+5514,480,https://github.com/gnab/remark,# remark,16,16,16,16
+5515,480,https://github.com/gnab/remark,### Getting Started,3,3,3,3
+5516,480,https://github.com/gnab/remark,# Title,8,8,8,8
+5517,480,https://github.com/gnab/remark,# Agenda,8,8,8,8
+5518,480,https://github.com/gnab/remark,# Introduction,8,8,8,8
+5519,480,https://github.com/gnab/remark,### How To Use remark,36,3,36,DISAGREE
+5520,480,https://github.com/gnab/remark,### Real-world remark slideshows,6,6,6,6
+5521,480,https://github.com/gnab/remark,### Printing,36,36,36,36
+5522,480,https://github.com/gnab/remark,### Contributors,5,5,5,5
+5523,480,https://github.com/gnab/remark,### License,5,5,5,5
+5524,481,https://github.com/willnorris/imageproxy,# imageproxy,1246,1246,1246,1246
+5525,481,https://github.com/willnorris/imageproxy,## URL Structure ##,3,3,3,3
+5526,481,https://github.com/willnorris/imageproxy,### Options ###,36,36,36,36
+5527,481,https://github.com/willnorris/imageproxy,### Remote URL ###,3,3,3,3
+5528,481,https://github.com/willnorris/imageproxy,### Examples ###,3,3,3,3
+5529,481,https://github.com/willnorris/imageproxy,## Getting Started ##,3,3,3,3
+5530,481,https://github.com/willnorris/imageproxy,### Cache ###,3,3,3,3
+5531,481,https://github.com/willnorris/imageproxy,### Allowed Referrer List ###,3,3,3,3
+5532,481,https://github.com/willnorris/imageproxy,### Allowed and Denied Hosts List ###,3,3,3,3
+5533,481,https://github.com/willnorris/imageproxy,### Allowed Content-Type List ###,3,3,3,3
+5534,481,https://github.com/willnorris/imageproxy,### Signed Requests ###,3,3,3,3
+5535,481,https://github.com/willnorris/imageproxy,### Default Base URL ###,3,3,3,3
+5536,481,https://github.com/willnorris/imageproxy,### Scaling beyond original size ###,3,3,3,3
+5537,481,https://github.com/willnorris/imageproxy,### WebP and TIFF support ###,3,3,3,3
+5538,481,https://github.com/willnorris/imageproxy,### Environment Variables ###,3,3,3,3
+5539,481,https://github.com/willnorris/imageproxy,## Deploying ##,3,3,3,3
+5540,481,https://github.com/willnorris/imageproxy,### Heroku ###,36,3,36,DISAGREE
+5541,481,https://github.com/willnorris/imageproxy,### AWS Elastic Beanstalk ###,36,3,356,DISAGREE
+5542,481,https://github.com/willnorris/imageproxy,### Docker ###,36,3,3,DISAGREE
+5543,481,https://github.com/willnorris/imageproxy,### nginx ###,3,3,3,3
+5544,481,https://github.com/willnorris/imageproxy,## License ##,5,5,5,5
+5545,483,https://github.com/romannurik/MaterialColorsApp,# Material Colors for Mac,1,1,16,DISAGREE
+5546,483,https://github.com/romannurik/MaterialColorsApp,## Build instructions,3,3,3,3
+5547,484,https://github.com/romannurik/MaterialColorsApp,# Material Colors for Mac,-,-,-,-
+5548,484,https://github.com/romannurik/MaterialColorsApp,## Build instructions,-,-,-,-
+5549,485,https://github.com/onevcat/VVDocumenter-Xcode,"# VVDocumenter-Xcode [![Build Status](https://api.travis-ci.org/onevcat/VVDocumenter-Xcode.svg)](https://travis-ci.org/onevcat/VVDocumenter-Xcode) <a href=""https://flattr.com/submit/auto?user_id=onevcat&url=https%3A%2F%2Fgithub.com%2Fonevcat%2FVVDocumenter-Xcode"" target=""_blank""><img src=""http://api.flattr.com/button/flattr-badge-large.png"" alt=""Flattr this"" title=""Flattr this"" border=""0""></a>",1,1,1,1
+5550,485,https://github.com/onevcat/VVDocumenter-Xcode,# Goodbye World,14,14,14,14
+5551,485,https://github.com/onevcat/VVDocumenter-Xcode,## What is this?,13,13,13,13
+5552,485,https://github.com/onevcat/VVDocumenter-Xcode,## How to install and use?,3,3,3,3
+5553,485,https://github.com/onevcat/VVDocumenter-Xcode,## Xcode version?,3,3,34,DISAGREE
+5554,485,https://github.com/onevcat/VVDocumenter-Xcode,## Swift Support,36,36,36,36
+5555,485,https://github.com/onevcat/VVDocumenter-Xcode,## Limitations and Future,34,35,346,DISAGREE
+5556,485,https://github.com/onevcat/VVDocumenter-Xcode,## License,5,5,5,5
+5557,486,https://github.com/spree/spree,# [Spree Commerce](https://spreecommerce.org) [![Gem Version](https://badge.fury.io/rb/spree.svg)](https://badge.fury.io/rb/spree) [![Circle CI](https://circleci.com/gh/spree/spree.svg?style=shield)](https://circleci.com/gh/spree/spree/tree/master) [![Test Coverage](https://api.codeclimate.com/v1/badges/8277fc2bb0b1f777084f/test_coverage)](https://codeclimate.com/github/spree/spree/test_coverage),1256,126,156,DISAGREE
+5558,486,https://github.com/spree/spree,## Sponsored by,5,5,5,5
+5559,486,https://github.com/spree/spree,## Key Features,1,1,1,1
+5560,486,https://github.com/spree/spree,## Storefronts,6,6,6,6
+5561,486,https://github.com/spree/spree,## Admin Dashboard,3,3,3,3
+5562,486,https://github.com/spree/spree,## Getting Started,36,36,36,36
+5563,486,https://github.com/spree/spree,## Documentation,6,6,6,6
+5564,486,https://github.com/spree/spree,## API,6,6,6,6
+5565,486,https://github.com/spree/spree,## Extensions,6,6,6,6
+5566,486,https://github.com/spree/spree,## Contributing,7,7,7,7
+5567,486,https://github.com/spree/spree,## License,5,5,5,5
+5568,487,https://github.com/Rachnog/Deep-Trading,# Deep-Trading,14,14,14,14
+5569,488,https://github.com/sebhildebrandt/systeminformation,## New Version 5.0,4,4,4,4
+5570,488,https://github.com/sebhildebrandt/systeminformation,## Quick Start,,1,1,DISAGREE
+5571,488,https://github.com/sebhildebrandt/systeminformation,### Installation,3,3,3,3
+5572,488,https://github.com/sebhildebrandt/systeminformation,#### Still need Version 4?,34,34,34,34
+5573,488,https://github.com/sebhildebrandt/systeminformation,### Usage,3,3,3,3
+5574,488,https://github.com/sebhildebrandt/systeminformation,## News and Changes,4,4,4,4
+5575,488,https://github.com/sebhildebrandt/systeminformation,### Latest Activity,4,4,4,4
+5576,488,https://github.com/sebhildebrandt/systeminformation,## Core concept,146,16,146,DISAGREE
+5577,488,https://github.com/sebhildebrandt/systeminformation,## Reference,36,36,36,36
+5578,488,https://github.com/sebhildebrandt/systeminformation,### Function Reference and OS Support,36,36,36,36
+5579,488,https://github.com/sebhildebrandt/systeminformation,#### 1. General,3,3,3,3
+5580,488,https://github.com/sebhildebrandt/systeminformation,#### 2. System (HW),3,3,3,3
+5581,488,https://github.com/sebhildebrandt/systeminformation,#### 3. CPU,3,3,3,3
+5582,488,https://github.com/sebhildebrandt/systeminformation,#### 4. Memory,3,3,3,3
+5583,488,https://github.com/sebhildebrandt/systeminformation,#### 5. Battery,3,3,3,3
+5584,488,https://github.com/sebhildebrandt/systeminformation,#### 6. Graphics,3,3,3,3
+5585,488,https://github.com/sebhildebrandt/systeminformation,#### 7. Operating System,3,3,3,3
+5586,488,https://github.com/sebhildebrandt/systeminformation,"#### 8. Current Load, Processes & Services",3,3,3,3
+5587,488,https://github.com/sebhildebrandt/systeminformation,#### 9. File System,3,3,3,3
+5588,488,https://github.com/sebhildebrandt/systeminformation,#### 10. USB,3,3,3,3
+5589,488,https://github.com/sebhildebrandt/systeminformation,#### 11. Printer,3,3,3,3
+5590,488,https://github.com/sebhildebrandt/systeminformation,#### 12. Audio,3,3,3,3
+5591,488,https://github.com/sebhildebrandt/systeminformation,#### 13. Network related functions,3,3,3,3
+5592,488,https://github.com/sebhildebrandt/systeminformation,#### 14. Wifi,3,3,3,3
+5593,488,https://github.com/sebhildebrandt/systeminformation,#### 15. Bluetooth,3,3,3,3
+5594,488,https://github.com/sebhildebrandt/systeminformation,#### 16. Docker,3,3,3,3
+5595,488,https://github.com/sebhildebrandt/systeminformation,#### 17. Virtual Box,3,3,3,3
+5596,488,https://github.com/sebhildebrandt/systeminformation,"#### 16. ""Get All / Observe"" - functions",3,3,3,3
+5597,488,https://github.com/sebhildebrandt/systeminformation,### cb: Asynchronous Function Calls (callback),3,3,3,3
+5598,488,https://github.com/sebhildebrandt/systeminformation,### Promises,3,3,3,3
+5599,488,https://github.com/sebhildebrandt/systeminformation,### Async / Await,3,3,3,3
+5600,488,https://github.com/sebhildebrandt/systeminformation,## Known Issues,3,3,3,3
+5601,488,https://github.com/sebhildebrandt/systeminformation,#### macOS - Temperature Sensor,3,3,3,3
+5602,488,https://github.com/sebhildebrandt/systeminformation,"#### Windows Temperature, Battery, ...",3,3,3,3
+5603,488,https://github.com/sebhildebrandt/systeminformation,#### Linux Temperature,3,3,3,3
+5604,488,https://github.com/sebhildebrandt/systeminformation,#### Linux S.M.A.R.T. Status,3,3,3,3
+5605,488,https://github.com/sebhildebrandt/systeminformation,## *: Additional Notes,3,3,3,3
+5606,488,https://github.com/sebhildebrandt/systeminformation,## Finding new issues,6,8,8,DISAGREE
+5607,488,https://github.com/sebhildebrandt/systeminformation,## Comments,6,8,5,DISAGREE
+5608,488,https://github.com/sebhildebrandt/systeminformation,## Credits,5,5,5,5
+5609,488,https://github.com/sebhildebrandt/systeminformation,#### Contributors,5,5,5,5
+5610,488,https://github.com/sebhildebrandt/systeminformation,## Copyright Information,5,5,5,5
+5611,488,https://github.com/sebhildebrandt/systeminformation,## License [![MIT license][license-img]][license-url],5,5,5,5
+5612,489,https://github.com/patriciogonzalezvivo/glslEditor,# [GlslEditor](https://github.com/patriciogonzalezvivo/glslEditor),1236,123,1236,DISAGREE
+5613,489,https://github.com/patriciogonzalezvivo/glslEditor,## Some of the features features,1,1,1,1
+5614,489,https://github.com/patriciogonzalezvivo/glslEditor,## Electron Version,3,3,3,3
+5615,489,https://github.com/patriciogonzalezvivo/glslEditor,## TODOs,5,4,4,DISAGREE
+5616,489,https://github.com/patriciogonzalezvivo/glslEditor,## Author,6,5,5,DISAGREE
+5617,489,https://github.com/patriciogonzalezvivo/glslEditor,## Acknowledgments,6,5,5,DISAGREE
+5618,490,https://github.com/Yalantis/Persei,# Persei,1,12,16,DISAGREE
+5619,490,https://github.com/Yalantis/Persei,## Supported Swift versions,3,3,3,3
+5620,490,https://github.com/Yalantis/Persei,## Installation,3,3,3,3
+5621,490,https://github.com/Yalantis/Persei,### [CocoaPods](http://cocoapods.org),3,3,3,3
+5622,490,https://github.com/Yalantis/Persei,### [Carthage](http://github.com/Carthage/Carthage),3,3,3,3
+5623,490,https://github.com/Yalantis/Persei,### Manual Installation,3,3,3,3
+5624,490,https://github.com/Yalantis/Persei,## Usage,3,3,3,3
+5625,490,https://github.com/Yalantis/Persei,#### Import `Persei` module,3,3,3,3
+5626,490,https://github.com/Yalantis/Persei,#### Init,3,3,3,3
+5627,490,https://github.com/Yalantis/Persei,#### Configuring items,3,3,3,3
+5628,490,https://github.com/Yalantis/Persei,#### Handling selection,3,3,3,3
+5629,490,https://github.com/Yalantis/Persei,#### Reveal menu manually,3,3,3,3
+5630,490,https://github.com/Yalantis/Persei,#### Content Gravity,3,3,3,3
+5631,490,https://github.com/Yalantis/Persei,#### Customization,3,3,3,3
+5632,490,https://github.com/Yalantis/Persei,#### Advanced customization,3,3,3,3
+5633,490,https://github.com/Yalantis/Persei,#### Let us know!,5,5,5,5
+5634,490,https://github.com/Yalantis/Persei,## License,5,5,5,5
+5635,491,https://github.com/pyqt/examples,# PyQt examples 2021,36,16,36,DISAGREE
+5636,491,https://github.com/pyqt/examples,## Official PyQt demos,3,36,36,DISAGREE
+5637,491,https://github.com/pyqt/examples,## Running the examples,3,3,3,3
+5638,491,https://github.com/pyqt/examples,# On Windows:,8,8,8,8
+5639,491,https://github.com/pyqt/examples,# On Mac / Linux:,8,8,8,8
+5640,491,https://github.com/pyqt/examples,## Using PySide2,3,3,3,3
+5641,491,https://github.com/pyqt/examples,## Licensing,5,5,5,5
+5642,493,https://github.com/janhuenermann/neurojs,# neurojs,167,14,14,DISAGREE
+5643,493,https://github.com/janhuenermann/neurojs,### Features,1,1,1,1
+5644,493,https://github.com/janhuenermann/neurojs,### Examples,13,3,36,DISAGREE
+5645,493,https://github.com/janhuenermann/neurojs,### Running the examples,3,3,3,3
+5646,493,https://github.com/janhuenermann/neurojs,### What's next?,4,4,4,4
+5647,494,https://github.com/shahen94/react-native-video-processing,## react-native-video-processing,1,1,1,1
+5648,494,https://github.com/shahen94/react-native-video-processing,### Getting Started,3,3,3,3
+5649,494,https://github.com/shahen94/react-native-video-processing,### You can check test by running,3,3,3,3
+5650,494,https://github.com/shahen94/react-native-video-processing,### Installation,3,3,3,3
+5651,494,https://github.com/shahen94/react-native-video-processing,#### [Android],3,3,3,3
+5652,494,https://github.com/shahen94/react-native-video-processing,#### [iOS],3,3,3,3
+5653,494,https://github.com/shahen94/react-native-video-processing,## Update ffmpeg binaries,3,3,3,3
+5654,494,https://github.com/shahen94/react-native-video-processing,## Example Usage,3,3,3,3
+5655,494,https://github.com/shahen94/react-native-video-processing,##,8,8,8,8
+5656,494,https://github.com/shahen94/react-native-video-processing,## Contributing,7,7,7,7
+5657,494,https://github.com/shahen94/react-native-video-processing,## Roadmap,4,4,4,4
+5658,495,https://github.com/scala/scala,# Welcome!,1,1,1,1
+5659,495,https://github.com/scala/scala,# How to contribute,7,7,7,7
+5660,495,https://github.com/scala/scala,# Get in touch!,57,5,5,DISAGREE
+5661,495,https://github.com/scala/scala,# Branches,7,7,7,7
+5662,495,https://github.com/scala/scala,## Choosing a branch,7,7,7,7
+5663,495,https://github.com/scala/scala,# Repository structure,7,7,7,7
+5664,495,https://github.com/scala/scala,# Get ready to contribute,7,7,7,7
+5665,495,https://github.com/scala/scala,## Requirements,7,37,37,DISAGREE
+5666,495,https://github.com/scala/scala,## Tools we use,5,6,6,DISAGREE
+5667,495,https://github.com/scala/scala,## Build setup,3,3,3,3
+5668,495,https://github.com/scala/scala,### Basics,3,3,3,3
+5669,495,https://github.com/scala/scala,### Using the sbt build,3,3,3,3
+5670,495,https://github.com/scala/scala,#### Sandbox,3,3,3,3
+5671,495,https://github.com/scala/scala,#### Incremental compilation,3,3,3,3
+5672,495,https://github.com/scala/scala,### IDE setup,3,3,3,3
+5673,495,https://github.com/scala/scala,# Coding guidelines,67,67,67,67
+5674,495,https://github.com/scala/scala,# Scala CI,7,7,7,7
+5675,495,https://github.com/scala/scala,"## ""Nightly"" builds",67,5,36,DISAGREE
+5676,495,https://github.com/scala/scala,## Scala CI internals,16,67,6,DISAGREE
+5677,495,https://github.com/scala/scala,## Community build,567,57,57,DISAGREE
+5678,496,https://github.com/yehengchen/Object-Detection-and-Tracking,## Environment,3,3,3,3
+5679,496,https://github.com/yehengchen/Object-Detection-and-Tracking,## Installation,3,3,3,3
+5680,496,https://github.com/yehengchen/Object-Detection-and-Tracking,## [OneStage],36,3,3,DISAGREE
+5681,496,https://github.com/yehengchen/Object-Detection-and-Tracking,### [YOLO](https://github.com/yehengchen/ObjectDetection/blob/master/OneStage/yolo): Real-Time Object Detection and Tracking,36,36,36,36
+5682,496,https://github.com/yehengchen/Object-Detection-and-Tracking,### [Darknet_ROS](https://github.com/yehengchen/YOLOv3-ROS/tree/master/darknet_ros): Real-Time Object Detection and Grasp Detection,6,6,6,6
+5683,496,https://github.com/yehengchen/Object-Detection-and-Tracking,### [DeepLabv3+_ROS](https://arxiv.org/abs/1802.02611): Mars Rover - Real-Time Object Tracking,6,6,6,6
+5684,496,https://github.com/yehengchen/Object-Detection-and-Tracking,### [SSD](https://github.com/yehengchen/ObjectDetection/tree/master/OneStage/ssd): Single Shot MultiBox Detector,6,6,6,6
+5685,496,https://github.com/yehengchen/Object-Detection-and-Tracking,## [TwoStage],36,3,3,DISAGREE
+5686,496,https://github.com/yehengchen/Object-Detection-and-Tracking,### [R-CNN](https://github.com/yehengchen/Object-Detection-and-Tracking/tree/master/TwoStage/R-CNN): Region-based methods,36,36,36,36
+5687,496,https://github.com/yehengchen/Object-Detection-and-Tracking,### COCO & VOC Datasets,36,36,36,36
+5688,496,https://github.com/yehengchen/Object-Detection-and-Tracking,#### CV & Robotics Paper List (3D object detection & 6D pose estimation) - [[Here]](https://github.com/yehengchen/Computer-Vision-and-Robotics-Paper-List),6,6,6,6
+5689,496,https://github.com/yehengchen/Object-Detection-and-Tracking,#### PapersWithCode: Browse > Computer Vision > Object Detection - [[Here]](https://paperswithcode.com/task/object-detection),6,6,6,6
+5690,496,https://github.com/yehengchen/Object-Detection-and-Tracking,#### ObjectDetection Two-stage vs One-stage Detectors - [[Here]](https://github.com/yehengchen/ObjectDetection/blob/master/Two-stage%20vs%20One-stage%20Detectors.md),6,6,6,6
+5691,496,https://github.com/yehengchen/Object-Detection-and-Tracking,#### ObjectDetection mAP & IoU - [[Here]](https://github.com/yehengchen/ObjectDetection/blob/master/mAP%26IoU.md),6,6,6,6
+5692,497,https://github.com/palaima/DebugDrawer,# Android Debug Drawer,12,1,1,DISAGREE
+5693,497,https://github.com/palaima/DebugDrawer,## Features,1,1,1,1
+5694,497,https://github.com/palaima/DebugDrawer,## TODO,4,4,4,4
+5695,497,https://github.com/palaima/DebugDrawer,## Getting Started,3,3,3,3
+5696,497,https://github.com/palaima/DebugDrawer,#### `DebugDrawer`,3,3,3,3
+5697,497,https://github.com/palaima/DebugDrawer,#### `DebugView`,3,3,3,3
+5698,497,https://github.com/palaima/DebugDrawer,## Putting All Together,3,3,3,3
+5699,497,https://github.com/palaima/DebugDrawer,### 1. Initialization in Activity,3,3,3,3
+5700,497,https://github.com/palaima/DebugDrawer,#### Example using `DebugDrawer` (For `DebugView` initialization check [DebugViewActivity](https://github.com/palaima/DebugDrawer/blob/master/app/src/main/java/io/palaima/debugdrawer/app/DebugViewActivity.java)),3,3,3,3
+5701,497,https://github.com/palaima/DebugDrawer,### 2. `TimberModule`,3,3,3,3
+5702,497,https://github.com/palaima/DebugDrawer,## Creating and Publishing Your Own Module,3,3,3,3
+5703,497,https://github.com/palaima/DebugDrawer,## Sample,3,3,3,3
+5704,497,https://github.com/palaima/DebugDrawer,## Contributing,7,7,7,7
+5705,497,https://github.com/palaima/DebugDrawer,### Pull Requests,7,7,7,7
+5706,497,https://github.com/palaima/DebugDrawer,### Coding Style,7,7,7,7
+5707,498,https://github.com/ericniebler/range-v3,### Usage:,6,-,-,DISAGREE
+5708,499,https://github.com/zsh-users/zsh-autosuggestions,# zsh-autosuggestions,123,13,13,DISAGREE
+5709,499,https://github.com/zsh-users/zsh-autosuggestions,## Installation,3,3,3,3
+5710,499,https://github.com/zsh-users/zsh-autosuggestions,## Usage,3,3,3,3
+5711,499,https://github.com/zsh-users/zsh-autosuggestions,## Configuration,3,3,3,3
+5712,499,https://github.com/zsh-users/zsh-autosuggestions,### Suggestion Highlight Style,3,3,3,3
+5713,499,https://github.com/zsh-users/zsh-autosuggestions,### Suggestion Strategy,3,3,3,3
+5714,499,https://github.com/zsh-users/zsh-autosuggestions,### Widget Mapping,3,3,3,3
+5715,499,https://github.com/zsh-users/zsh-autosuggestions,### Disabling suggestion for large buffers,3,3,3,3
+5716,499,https://github.com/zsh-users/zsh-autosuggestions,### Asynchronous Mode,3,3,3,3
+5717,499,https://github.com/zsh-users/zsh-autosuggestions,### Disabling automatic widget re-binding,3,3,3,3
+5718,499,https://github.com/zsh-users/zsh-autosuggestions,### Ignoring history suggestions that match a pattern,3,3,3,3
+5719,499,https://github.com/zsh-users/zsh-autosuggestions,### Skipping completion suggestions for certain cases,3,3,3,3
+5720,499,https://github.com/zsh-users/zsh-autosuggestions,### Key Bindings,3,3,3,3
+5721,499,https://github.com/zsh-users/zsh-autosuggestions,## Troubleshooting,36,3,36,DISAGREE
+5722,499,https://github.com/zsh-users/zsh-autosuggestions,### Reporting an Issue,6,6,6,6
+5723,499,https://github.com/zsh-users/zsh-autosuggestions,## Uninstallation,3,3,3,3
+5724,499,https://github.com/zsh-users/zsh-autosuggestions,## Development,7,7,7,7
+5725,499,https://github.com/zsh-users/zsh-autosuggestions,### Build Process,7,7,7,7
+5726,499,https://github.com/zsh-users/zsh-autosuggestions,### Pull Requests,7,7,7,7
+5727,499,https://github.com/zsh-users/zsh-autosuggestions,### Testing,7,7,7,7
+5728,499,https://github.com/zsh-users/zsh-autosuggestions,## License,5,5,5,5
+5729,500,https://github.com/roberthein/BouncyLayout,## Features,12,1,1,DISAGREE
+5730,500,https://github.com/roberthein/BouncyLayout,## Setup,3,3,3,3
+5731,500,https://github.com/roberthein/BouncyLayout,##### Find the above displayed examples in the `example` folder.,8,3,3,DISAGREE
+5732,500,https://github.com/roberthein/BouncyLayout,## Installation,3,3,3,3
+5733,500,https://github.com/roberthein/BouncyLayout,### CocoaPods,3,3,3,3
+5734,500,https://github.com/roberthein/BouncyLayout,### Carthage,3,3,3,3
+5735,500,https://github.com/roberthein/BouncyLayout,### Swift Package Manager,3,3,3,3
+5736,500,https://github.com/roberthein/BouncyLayout,## Suggestions or feedback?,6,5,56,DISAGREE
+5737,501,https://github.com/ansman/validate.js,### Requirements,3,3,3,3
+5738,501,https://github.com/ansman/validate.js,### Build steps,3,3,3,3
+5739,501,https://github.com/ansman/validate.js,### Continuous testing,3,3,3,3
+5740,502,https://github.com/fuel/fuel,# FuelPHP,16,16,16,16
+5741,502,https://github.com/fuel/fuel,## Description,12,12,12,12
+5742,502,https://github.com/fuel/fuel,## More information,6,6,6,6
+5743,502,https://github.com/fuel/fuel,## Development Team,5,5,5,5
+5744,502,https://github.com/fuel/fuel,### Want to join?,7,7,7,7
+5745,502,https://github.com/fuel/fuel,### Alumni,56,5,5,DISAGREE
+5746,503,https://github.com/google/material-design-lite,# Material Design Lite,126,146,146,DISAGREE
+5747,503,https://github.com/google/material-design-lite,## Use MDL on your site?,36,6,6,DISAGREE
+5748,503,https://github.com/google/material-design-lite,## Browser Support,3,3,3,3
+5749,503,https://github.com/google/material-design-lite,### Download / Clone,3,3,3,3
+5750,503,https://github.com/google/material-design-lite,## Feature requests,6,4,4,DISAGREE
+5751,503,https://github.com/google/material-design-lite,## Want to contribute?,7,7,7,7
+5752,503,https://github.com/google/material-design-lite,## License,5,5,5,5
+5753,504,https://github.com/joh/when-changed,# when-changed: Run a command when a file is changed,123,1,1,DISAGREE
+5754,504,https://github.com/joh/when-changed,### What is it?,12,12,12,12
+5755,504,https://github.com/joh/when-changed,### What do I need?,3,3,3,3
+5756,504,https://github.com/joh/when-changed,### Installation,3,3,36,DISAGREE
+5757,504,https://github.com/joh/when-changed,### Usage,3,3,3,3
+5758,504,https://github.com/joh/when-changed,### Environment variables:,3,3,3,3
+5759,505,https://github.com/wagerfield/flat-surface-shader,# Flat Surface Shader [FSS],13,13,13,13
+5760,505,https://github.com/wagerfield/flat-surface-shader,## Understanding Lighting,16,6,16,DISAGREE
+5761,505,https://github.com/wagerfield/flat-surface-shader,### Light,1,1,1,1
+5762,505,https://github.com/wagerfield/flat-surface-shader,### Triangle,16,1,16,DISAGREE
+5763,505,https://github.com/wagerfield/flat-surface-shader,### Geometry,1,1,1,1
+5764,505,https://github.com/wagerfield/flat-surface-shader,### Material,1,1,1,1
+5765,505,https://github.com/wagerfield/flat-surface-shader,### Mesh,1,1,1,1
+5766,505,https://github.com/wagerfield/flat-surface-shader,### Scene,1,1,1,1
+5767,505,https://github.com/wagerfield/flat-surface-shader,### Renderer,1,1,1,1
+5768,505,https://github.com/wagerfield/flat-surface-shader,### Calculation,16,1,16,DISAGREE
+5769,505,https://github.com/wagerfield/flat-surface-shader,## Example,3,3,3,3
+5770,505,https://github.com/wagerfield/flat-surface-shader,## Building,3,3,3,3
+5771,505,https://github.com/wagerfield/flat-surface-shader,## Inspiration,56,56,56,56
+5772,505,https://github.com/wagerfield/flat-surface-shader,## Acknowledgments,5,5,5,5
+5773,505,https://github.com/wagerfield/flat-surface-shader,## Author,5,5,5,5
+5774,505,https://github.com/wagerfield/flat-surface-shader,## License,5,5,5,5
+5775,506,https://github.com/madebybowtie/FlagKit,# FlagKit,12,1,1,DISAGREE
+5776,506,https://github.com/madebybowtie/FlagKit,"## Installation (iOS, macOS, tvOS)",3,3,3,3
+5777,506,https://github.com/madebybowtie/FlagKit,### SwiftPM,3,3,3,3
+5778,506,https://github.com/madebybowtie/FlagKit,### Carthage,3,3,3,3
+5779,506,https://github.com/madebybowtie/FlagKit,### CocoaPods,3,3,3,3
+5780,506,https://github.com/madebybowtie/FlagKit,### Manual,3,3,3,3
+5781,506,https://github.com/madebybowtie/FlagKit,"## Usage (iOS, macOS, tvOS)",3,3,3,3
+5782,506,https://github.com/madebybowtie/FlagKit,## Reference,6,6,6,6
+5783,506,https://github.com/madebybowtie/FlagKit,## More Info,6,6,6,6
+5784,506,https://github.com/madebybowtie/FlagKit,## License,5,5,5,5
+5785,507,https://github.com/mbleigh/acts-as-taggable-on,# ActsAsTaggableOn,126,12,12,DISAGREE
+5786,507,https://github.com/mbleigh/acts-as-taggable-on,## Installation,3,3,3,3
+5787,507,https://github.com/mbleigh/acts-as-taggable-on,#### Post Installation,3,3,3,3
+5788,507,https://github.com/mbleigh/acts-as-taggable-on,# For the latest versions :,8,8,8,8
+5789,507,https://github.com/mbleigh/acts-as-taggable-on,#### For MySql users,3,3,3,3
+5790,507,https://github.com/mbleigh/acts-as-taggable-on,## Usage,3,3,3,3
+5791,507,https://github.com/mbleigh/acts-as-taggable-on,"# => [""joking"", ""clowning"", ""boxing"", ""coding""]",8,8,8,8
+5792,507,https://github.com/mbleigh/acts-as-taggable-on,### Finding most or least used tags,3,3,3,3
+5793,507,https://github.com/mbleigh/acts-as-taggable-on,### Finding Tagged Objects,3,3,3,3
+5794,507,https://github.com/mbleigh/acts-as-taggable-on,# Find users that matches all given tags:,8,8,8,8
+5795,507,https://github.com/mbleigh/acts-as-taggable-on,"# NOTE: This only matches users that have the exact set of specified tags. If a user has additional tags, they are not returned.",8,8,8,8
+5796,507,https://github.com/mbleigh/acts-as-taggable-on,# Find users with any of the specified tags:,8,8,8,8
+5797,507,https://github.com/mbleigh/acts-as-taggable-on,# Find users that have not been tagged with awesome or cool:,8,8,8,8
+5798,507,https://github.com/mbleigh/acts-as-taggable-on,# Find users with any of the tags based on context:,8,8,8,8
+5799,507,https://github.com/mbleigh/acts-as-taggable-on,### Relationships,3,3,3,3
+5800,507,https://github.com/mbleigh/acts-as-taggable-on,### Dynamic Tag Contexts,3,3,3,3
+5801,507,https://github.com/mbleigh/acts-as-taggable-on,### Tag Parsers,3,3,3,3
+5802,507,https://github.com/mbleigh/acts-as-taggable-on,# Or also:,8,8,8,8
+5803,507,https://github.com/mbleigh/acts-as-taggable-on,### Tag Ownership,3,3,3,3
+5804,507,https://github.com/mbleigh/acts-as-taggable-on,#### Working with Owned Tags,3,3,3,3
+5805,507,https://github.com/mbleigh/acts-as-taggable-on,##### Adding owned tags,3,3,3,3
+5806,507,https://github.com/mbleigh/acts-as-taggable-on,##### Removing owned tags,3,3,3,3
+5807,507,https://github.com/mbleigh/acts-as-taggable-on,### Tag Tenancy,3,3,3,3
+5808,507,https://github.com/mbleigh/acts-as-taggable-on,### Dirty objects,3,3,3,3
+5809,507,https://github.com/mbleigh/acts-as-taggable-on,### Tag cloud calculations,3,3,3,3
+5810,507,https://github.com/mbleigh/acts-as-taggable-on,## Configuration,3,3,3,3
+5811,507,https://github.com/mbleigh/acts-as-taggable-on,#### Upgrading,36,3,36,DISAGREE
+5812,507,https://github.com/mbleigh/acts-as-taggable-on,## Contributors,5,5,5,5
+5813,507,https://github.com/mbleigh/acts-as-taggable-on,## Compatibility,3,34,3,DISAGREE
+5814,507,https://github.com/mbleigh/acts-as-taggable-on,## TODO,4,-,-,DISAGREE
+5815,507,https://github.com/mbleigh/acts-as-taggable-on,## Testing,3,36,3,DISAGREE
+5816,507,https://github.com/mbleigh/acts-as-taggable-on,## License,5,5,5,5
+5817,508,https://github.com/holoviz/holoviews,"# <img src=""https://assets.holoviews.org/logo/holoviews_color_icon_500x500.png"" alt=""HoloViews logo"" height=""40px"" align=""left"" /> HoloViews",126,1236,12367,DISAGREE
+5818,509,https://github.com/apsdehal/awesome-ctf,# Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome),1,1,1,1
+5819,509,https://github.com/apsdehal/awesome-ctf,### Contributing,7,7,7,7
+5820,509,https://github.com/apsdehal/awesome-ctf,"#### _If you know a tool that isn't present here, feel free to open a pull request._",7,7,7,7
+5821,509,https://github.com/apsdehal/awesome-ctf,### Why?,2,2,2,2
+5822,509,https://github.com/apsdehal/awesome-ctf,### Contents,1,8,8,DISAGREE
+5823,509,https://github.com/apsdehal/awesome-ctf,# Create,16,6,16,DISAGREE
+5824,509,https://github.com/apsdehal/awesome-ctf,## Forensics,16,6,16,DISAGREE
+5825,509,https://github.com/apsdehal/awesome-ctf,## Platforms,16,6,16,DISAGREE
+5826,509,https://github.com/apsdehal/awesome-ctf,## Steganography,1,8,1,DISAGREE
+5827,509,https://github.com/apsdehal/awesome-ctf,## Web,16,6,16,DISAGREE
+5828,509,https://github.com/apsdehal/awesome-ctf,# Solve,16,8,1,DISAGREE
+5829,509,https://github.com/apsdehal/awesome-ctf,## Attacks,16,6,16,DISAGREE
+5830,509,https://github.com/apsdehal/awesome-ctf,## Crypto,16,6,16,DISAGREE
+5831,509,https://github.com/apsdehal/awesome-ctf,## Bruteforcers,16,6,16,DISAGREE
+5832,509,https://github.com/apsdehal/awesome-ctf,## Exploits,16,6,16,DISAGREE
+5833,509,https://github.com/apsdehal/awesome-ctf,## Forensics,16,6,16,DISAGREE
+5834,509,https://github.com/apsdehal/awesome-ctf,## Networking,16,6,16,DISAGREE
+5835,509,https://github.com/apsdehal/awesome-ctf,## Reversing,16,6,16,DISAGREE
+5836,509,https://github.com/apsdehal/awesome-ctf,## Services,16,6,16,DISAGREE
+5837,509,https://github.com/apsdehal/awesome-ctf,## Steganography,16,6,16,DISAGREE
+5838,509,https://github.com/apsdehal/awesome-ctf,## Web,16,6,16,DISAGREE
+5839,509,https://github.com/apsdehal/awesome-ctf,# Resources,136,8,1,DISAGREE
+5840,509,https://github.com/apsdehal/awesome-ctf,## Operating Systems,16,6,16,DISAGREE
+5841,509,https://github.com/apsdehal/awesome-ctf,## Starter Packs,16,6,16,DISAGREE
+5842,509,https://github.com/apsdehal/awesome-ctf,## Tutorials,36,6,36,DISAGREE
+5843,509,https://github.com/apsdehal/awesome-ctf,## Wargames,16,6,16,DISAGREE
+5844,509,https://github.com/apsdehal/awesome-ctf,## Websites,16,6,16,DISAGREE
+5845,509,https://github.com/apsdehal/awesome-ctf,## Wikis,136,6,136,DISAGREE
+5846,509,https://github.com/apsdehal/awesome-ctf,## Writeups Collections,16,6,16,DISAGREE
+5847,509,https://github.com/apsdehal/awesome-ctf,### LICENSE,5,5,5,5
+5848,510,https://github.com/sds/overcommit,## Requirements,3,3,3,3
+5849,510,https://github.com/sds/overcommit,### Windows,3,3,3,3
+5850,510,https://github.com/sds/overcommit,### Dependencies,3,3,3,3
+5851,510,https://github.com/sds/overcommit,## Installation,3,3,3,3
+5852,510,https://github.com/sds/overcommit,### Automatically Install Overcommit Hooks,3,3,3,3
+5853,510,https://github.com/sds/overcommit,## Usage,3,3,3,3
+5854,510,https://github.com/sds/overcommit,### Skipping Hooks,3,3,3,3
+5855,510,https://github.com/sds/overcommit,### Disabling Overcommit,3,3,3,3
+5856,510,https://github.com/sds/overcommit,### Disabling Colorized Output,3,3,3,3
+5857,510,https://github.com/sds/overcommit,## Continuous Integration,3,3,3,3
+5858,510,https://github.com/sds/overcommit,## Configuration,3,3,3,3
+5859,510,https://github.com/sds/overcommit,### Hook Options,3,3,3,3
+5860,510,https://github.com/sds/overcommit,### Hook Categories,3,3,3,3
+5861,510,https://github.com/sds/overcommit,#### The `ALL` Hook,3,3,3,3
+5862,510,https://github.com/sds/overcommit,### Gemfile,3,3,3,3
+5863,510,https://github.com/sds/overcommit,### Plugin Directory,3,3,3,3
+5864,510,https://github.com/sds/overcommit,### Quiet Hook Runs,3,3,3,3
+5865,510,https://github.com/sds/overcommit,### Concurrency,3,3,3,3
+5866,510,https://github.com/sds/overcommit,### Signature Verification,3,3,3,3
+5867,510,https://github.com/sds/overcommit,## Built-In Hooks,36,3,36,DISAGREE
+5868,510,https://github.com/sds/overcommit,### CommitMsg,36,36,36,36
+5869,510,https://github.com/sds/overcommit,### PostCheckout,36,3,36,DISAGREE
+5870,510,https://github.com/sds/overcommit,### PostCommit,36,3,36,DISAGREE
+5871,510,https://github.com/sds/overcommit,### PostMerge,36,3,36,DISAGREE
+5872,510,https://github.com/sds/overcommit,### PostRewrite,36,3,36,DISAGREE
+5873,510,https://github.com/sds/overcommit,### PreCommit,3,3,3,3
+5874,510,https://github.com/sds/overcommit,#### WARNING: pre-commit hooks cannot have side effects,36,3,36,DISAGREE
+5875,510,https://github.com/sds/overcommit,### PrePush,36,3,36,DISAGREE
+5876,510,https://github.com/sds/overcommit,### PreRebase,36,3,36,DISAGREE
+5877,510,https://github.com/sds/overcommit,## Repo-Specific hooks,3,3,3,3
+5878,510,https://github.com/sds/overcommit,### Adding Existing Git Hooks,36,3,36,DISAGREE
+5879,510,https://github.com/sds/overcommit,## Security,3,3,3,3
+5880,510,https://github.com/sds/overcommit,### Disabling Signature Checking,3,3,3,3
+5881,510,https://github.com/sds/overcommit,## Contributing,7,7,7,7
+5882,510,https://github.com/sds/overcommit,## Community,6,6,5,DISAGREE
+5883,510,https://github.com/sds/overcommit,## Changelog,4,4,4,4
+5884,510,https://github.com/sds/overcommit,## License,5,5,5,5
+5885,511,https://github.com/pico-8/awesome-PICO-8,# Awesome PICO-8 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re),126,126,136,DISAGREE
+5886,511,https://github.com/pico-8/awesome-PICO-8,## Contents,1,8,8,DISAGREE
+5887,511,https://github.com/pico-8/awesome-PICO-8,## Community,56,5,5,DISAGREE
+5888,511,https://github.com/pico-8/awesome-PICO-8,## DemoScene,36,6,36,DISAGREE
+5889,511,https://github.com/pico-8/awesome-PICO-8,## Resources,36,6,36,DISAGREE
+5890,511,https://github.com/pico-8/awesome-PICO-8,## Tutorials,36,6,36,DISAGREE
+5891,511,https://github.com/pico-8/awesome-PICO-8,## Tools,6,6,6,6
+5892,511,https://github.com/pico-8/awesome-PICO-8,## Text Editors Language Support,6,6,36,DISAGREE
+5893,511,https://github.com/pico-8/awesome-PICO-8,### Programming Fonts,36,3,36,DISAGREE
+5894,511,https://github.com/pico-8/awesome-PICO-8,## Hacks - undocumented PICO-8 features,6,6,6,6
+5895,511,https://github.com/pico-8/awesome-PICO-8,## Hardware,6,6,6,6
+5896,511,https://github.com/pico-8/awesome-PICO-8,## Articles & Posts,6,6,6,6
+5897,511,https://github.com/pico-8/awesome-PICO-8,## Talks,6,6,6,6
+5898,511,https://github.com/pico-8/awesome-PICO-8,## Clones,6,6,6,6
+5899,511,https://github.com/pico-8/awesome-PICO-8,## I Want to Contribute!,7,7,7,7
+5900,511,https://github.com/pico-8/awesome-PICO-8,## License,5,5,5,5
+5901,512,https://github.com/mpeltonen/sbt-idea,### Basic project,3,3,3,3
+5902,512,https://github.com/mpeltonen/sbt-idea,### Project with dependencies,3,3,3,3
+5903,512,https://github.com/mpeltonen/sbt-idea,### Sources and javadocs,3,3,3,3
+5904,512,https://github.com/mpeltonen/sbt-idea,### Exclude some folders,3,3,3,3
+5905,512,https://github.com/mpeltonen/sbt-idea,### Include extra test configurations,3,35,3,DISAGREE
+5906,513,https://github.com/fixerAPI/fixer,# Fixer -  Important Announcement,13456,13456,13456,13456
+5907,513,https://github.com/fixerAPI/fixer,## Usage,3,3,3,3
+5908,513,https://github.com/fixerAPI/fixer,## Installation,3,3,3,3
+5909,514,https://github.com/FiloSottile/yubikey-agent,# yubikey-agent,12,12,1,DISAGREE
+5910,514,https://github.com/FiloSottile/yubikey-agent,## Installation,3,3,3,3
+5911,514,https://github.com/FiloSottile/yubikey-agent,### macOS,3,3,3,3
+5912,514,https://github.com/FiloSottile/yubikey-agent,### Linux,3,3,3,3
+5913,514,https://github.com/FiloSottile/yubikey-agent,#### Arch,3,3,3,3
+5914,514,https://github.com/FiloSottile/yubikey-agent,#### NixOS / nixpkgs,3,3,3,3
+5915,514,https://github.com/FiloSottile/yubikey-agent,#### Other systemd-based Linux systems,3,3,36,DISAGREE
+5916,514,https://github.com/FiloSottile/yubikey-agent,### FreeBSD,3,3,3,3
+5917,514,https://github.com/FiloSottile/yubikey-agent,### Windows,3,3,3,3
+5918,514,https://github.com/FiloSottile/yubikey-agent,## Advanced topics,3,3,3,3
+5919,514,https://github.com/FiloSottile/yubikey-agent,### Coexisting with other `ssh-agent`s,3,3,3,3
+5920,514,https://github.com/FiloSottile/yubikey-agent,### Conflicts with `gpg-agent` and Yubikey Manager,3,3,3,3
+5921,514,https://github.com/FiloSottile/yubikey-agent,### Changing PIN and PUK,3,3,3,3
+5922,514,https://github.com/FiloSottile/yubikey-agent,### Unblocking the PIN with the PUK,3,3,3,3
+5923,514,https://github.com/FiloSottile/yubikey-agent,### Manual setup and technical details,3,3,3,3
+5924,514,https://github.com/FiloSottile/yubikey-agent,### Alternatives,3,3,3,3
+5925,514,https://github.com/FiloSottile/yubikey-agent,#### Native FIDO2,3,3,3,3
+5926,514,https://github.com/FiloSottile/yubikey-agent,#### `gpg-agent`,3,3,3,3
+5927,514,https://github.com/FiloSottile/yubikey-agent,#### `ssh-agent` and PKCS#11,3,3,3,3
+5928,514,https://github.com/FiloSottile/yubikey-agent,#### Secretive and SeKey,6,6,6,6
+5929,514,https://github.com/FiloSottile/yubikey-agent,#### `pivy-agent`,6,6,6,6
+5930,516,https://github.com/restic/restic,# Introduction,126,1356,16,DISAGREE
+5931,516,https://github.com/restic/restic,# Backends,12,3,6,DISAGREE
+5932,516,https://github.com/restic/restic,# Design Principles,12,12,12,12
+5933,516,https://github.com/restic/restic,# Reproducible Builds,3,35,36,DISAGREE
+5934,517,https://github.com/sharkdp/cube-composer,## Local install,3,3,3,3
+5935,517,https://github.com/sharkdp/cube-composer,## Creating new levels,3,3,3,3
+5936,517,https://github.com/sharkdp/cube-composer,## CI status,4,4,4,4
+5937,518,https://github.com/rogchap/wombat,## Features,1,1,1,1
+5938,518,https://github.com/rogchap/wombat,## Download,6,3,6,DISAGREE
+5939,518,https://github.com/rogchap/wombat,## Install,3,3,3,3
+5940,518,https://github.com/rogchap/wombat,### MacOS,3,3,3,3
+5941,518,https://github.com/rogchap/wombat,### Linux,3,3,3,3
+5942,518,https://github.com/rogchap/wombat,#### Arch Linux AUR,3,3,3,3
+5943,518,https://github.com/rogchap/wombat,### Windows,3,3,3,3
+5944,519,https://github.com/bartblaze/PHP-backdoors,# PHP-backdoors,12,1,1,DISAGREE
+5945,519,https://github.com/bartblaze/PHP-backdoors,### Notes,1,1,1,1
+5946,519,https://github.com/bartblaze/PHP-backdoors,### PHP tools,6,6,6,6
+5947,519,https://github.com/bartblaze/PHP-backdoors,#### Other repos,6,6,6,6
+5948,519,https://github.com/bartblaze/PHP-backdoors,#### Other information,56,56,56,56
+5949,519,https://github.com/bartblaze/PHP-backdoors,#### Detection,6,6,6,6
+5950,519,https://github.com/bartblaze/PHP-backdoors,# License,5,5,5,5
+5951,520,https://github.com/butor/blackbird,### Introduction,1,1,1,1
+5952,520,https://github.com/butor/blackbird,### How It Works,1,1,1,1
+5953,520,https://github.com/butor/blackbird,#### Advantages,26,12,26,DISAGREE
+5954,520,https://github.com/butor/blackbird,### Disclaimer,8,8,8,8
+5955,520,https://github.com/butor/blackbird,### Code Information,16,35,15,DISAGREE
+5956,520,https://github.com/butor/blackbird,### How To Test Blackbird,13,3,13,DISAGREE
+5957,520,https://github.com/butor/blackbird,#### Implemented Exchanges,1,1,1,1
+5958,520,https://github.com/butor/blackbird,#### Potential Exchanges,1,14,1,DISAGREE
+5959,520,https://github.com/butor/blackbird,#### Credentials,3,3,3,3
+5960,520,https://github.com/butor/blackbird,#### Blackbird Parameters,3,3,3,3
+5961,520,https://github.com/butor/blackbird,#### Getting and building the software,3,3,3,3
+5962,520,https://github.com/butor/blackbird,#### Ubuntu (Amazon EC2 compatible),3,3,3,3
+5963,520,https://github.com/butor/blackbird,#### Docker,3,3,3,3
+5964,520,https://github.com/butor/blackbird,#### Mac OS X,3,3,3,3
+5965,520,https://github.com/butor/blackbird,#### Understanding and debugging the software,3,3,36,DISAGREE
+5966,520,https://github.com/butor/blackbird,### Contact,5,5,5,5
+5967,520,https://github.com/butor/blackbird,### Log Output Example,3,3,3,3
+5968,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,# Photoshop-Export-Layers-to-Files-Fast,126,12,16,DISAGREE
+5969,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,## How to Use,3,3,3,3
+5970,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,## Example Screenshot,3,3,3,3
+5971,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,## Features,1,1,1,1
+5972,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,## Extra Field Documentation,3,3,3,3
+5973,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,### Selected Group,3,3,3,3
+5974,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,### Ignore Layers Starting With,3,3,3,3
+5975,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,### Filenames,3,3,3,3
+5976,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,### Use Custom Delimiter,3,3,3,3
+5977,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,### Prefix/Suffix,3,3,3,3
+5978,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,#### Variable Substitution,3,3,3,3
+5979,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,### Known Gaps,4,3,4,DISAGREE
+5980,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,## Requirements,3,3,34,DISAGREE
+5981,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,## Contributing,7,7,7,7
+5982,521,https://github.com/hsw107/Photoshop-Export-Layers-to-Files-Fast,## Feedback / Bugs,6,6,6,6

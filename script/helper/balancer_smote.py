@@ -7,7 +7,8 @@ from sklearn.utils import resample
 from sklearn.utils.validation import check_is_fitted
 from sklearn.base import BaseEstimator, clone
 import warnings
-from imblearn.over_sampling import SMOTE 
+from imblearn.over_sampling import SMOTE
+
 
 class _ConstantPredictor(BaseEstimator):
 
