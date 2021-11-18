@@ -101,6 +101,7 @@ def extract_section_from_abstracted_files(temp_abstracted_markdown_file_dir, db_
         
         df_to_save = headings[['file_id','section_id','content_text_w_o_tags']]
         df_to_save.to_sql(name=content_table, con=conn, if_exists='replace', index=False)
+        df_to_save.to_csv("../our_data/new_headings.csv",index=False)
     except Error as e:
         logging.exception(e)
     except Exception as e:
@@ -204,6 +205,7 @@ def extract_section_from_abstracted_files_v2(temp_abstracted_markdown_file_dir, 
         df_to_save = headings[['file_id','section_id','content_text_w_o_tags']]
         # Use append when saving since table is already emptied at the beginning
         df_to_save.to_sql(name='target_section_content', con=conn, if_exists='append', index=False)
+        df_to_save.to_csv("../our_data/new_headings.csv",index=False)
     except Error as e:
         logging.exception(e)
     except Exception as e:
